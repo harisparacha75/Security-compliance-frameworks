@@ -1,1 +1,4 @@
-
+Risk ID,Risk Title,Asset,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Risk Treatment,Planned Controls,Risk Owner,Residual Likelihood,Residual Impact,Residual Risk Score,Status
+RISK-001,Unauthorized access to privileged accounts,Identity and access management,Credential theft,Weak or missing MFA,4,5,20,Mitigate,Enforce MFA and review privileged access,Security Manager,2,5,10,Planned
+RISK-002,Data loss due to ransomware,Endpoints and file servers,Ransomware infection,Insufficient backup protection,4,5,20,Mitigate,Implement tested offline or immutable backups and endpoint protection,IT Security Lead,2,5,10,Planned
+RISK-003,Exposure of sensitive data,Cloud storage,Unauthorized disclosure,Incorrect access permissions,3,5,15,Mitigate,Review permissions and enable monitoring,Cloud Security Lead,2,5,10,Planned
