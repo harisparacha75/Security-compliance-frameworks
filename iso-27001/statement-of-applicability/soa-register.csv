@@ -1,1 +1,4 @@
 Control ID,Control Name,Applicable,Justification,Implementation Status,Evidence Reference
+A.5.15,Access control,Yes,Example: Access control is required to restrict access to information,Planned (example),TBD
+A.5.17,Authentication information,Yes,Example: Authentication information must be protected from unauthorized disclosure,Planned (example),TBD
+A.8.15,Logging,Yes,Example: Security events must be logged to support monitoring and investigations,Planned (example),TBD
