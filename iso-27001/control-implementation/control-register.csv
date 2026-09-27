@@ -1,0 +1,4 @@
+Control ID,Control Name,Implementation Status,Control Owner,Implementation Description,Evidence,Review Frequency
+A.5.15,Access control,Not assessed,IT Security,Define and enforce access control rules,Access control policy,Annual
+A.5.16,Identity management,Not assessed,IT Security,Manage identity lifecycle from creation to removal,Identity lifecycle records,Annual
+A.5.18,Access rights,Not assessed,IT Security,Provision review and remove access rights,Access review records,Quarterly
