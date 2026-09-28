@@ -1,4 +1,11 @@
 Control ID,Control Name,Implementation Status,Control Owner,Implementation Description,Evidence,Review Frequency
-A.5.15,Access control,Not assessed,IT Security,Define and enforce access control rules,Access control policy,Annual
-A.5.16,Identity management,Not assessed,IT Security,Manage identity lifecycle from creation to removal,Identity lifecycle records,Annual
-A.5.18,Access rights,Not assessed,IT Security,Provision review and remove access rights,Access review records,Quarterly
+A.5.15,Access control,Not assessed,IT Security,Define and enforce access control rules,Access control policy; access review records,Annual
+A.5.16,Identity management,Not assessed,IT Security,Manage identity creation modification and removal,Identity lifecycle records,Annual
+A.5.17,Authentication information,Not assessed,IT Security,Protect authentication information and establish handling requirements,Authentication policy; configuration records,Annual
+A.5.18,Access rights,Not assessed,IT Security,Grant review and revoke access rights,Access review records; access change records,Quarterly
+A.5.24,Information security incident management planning and preparation,Not assessed,IT Security,Define incident management roles procedures and preparation activities,Incident response policy; incident response plan,Annual
+A.5.26,Response to information security incidents,Not assessed,IT Security,Define procedures for responding to and managing information security incidents,Incident response records; incident response policy,Annual
+A.8.7,Protection against malware,Not assessed,IT Security,Define measures for malware prevention detection and response,Malware protection records; security configuration records,Quarterly
+A.8.8,Management of technical vulnerabilities,Not assessed,IT Security,Identify assess and manage technical vulnerabilities,Vulnerability assessment records; remediation tracking,Quarterly
+A.8.15,Logging,Not assessed,IT Security,Define logging requirements and protect relevant log records,Logging policy; log configuration records,Quarterly
+A.8.16,Monitoring activities,Not assessed,IT Security,Define monitoring activities for detecting anomalous behavior,Monitoring rules; alert review records,Quarterly
