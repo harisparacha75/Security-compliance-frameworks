@@ -1,25 +1,28 @@
 # Security Compliance Frameworks
 
-A portfolio project documenting sample security controls, risk assessment, and evidence-tracking approaches for ISO/IEC 27001:2022 and SOC 2.
+A cybersecurity portfolio project demonstrating sample security controls, risk assessment, policy documentation, and evidence-tracking approaches for ISO/IEC 27001:2022 and SOC 2.
+
+This repository is intended for learning, practical documentation, and portfolio development.
 
 ## Project Status
 
-- **ISO/IEC 27001:** Illustrative documentation and control registers are in progress.
-- **SOC 2:** Initial project documentation is present. Control mapping, evidence collection, and audit-readiness materials are not yet developed.
+- **ISO/IEC 27001:2022:** Illustrative risk assessment, policies, Statement of Applicability (SoA), and control documentation are in progress.
+- **SOC 2:** Initial control mapping, sample policies, evidence tracking, Trust Services Criteria documentation, and audit-readiness materials are available as illustrative examples.
 
-This repository is a learning and demonstration portfolio. It does not represent a certified or operational compliance program.
+All materials are samples. They do not demonstrate that an organization has implemented the controls or achieved compliance.
 
 ## Objectives
 
 - Document sample security controls and implementation approaches.
-- Build risk assessment and evidence-tracking templates.
-- Explore relationships between ISO/IEC 27001 and SOC 2 without treating the frameworks as interchangeable.
-- Demonstrate practical governance, risk, and compliance documentation.
+- Develop risk assessment and risk treatment documentation.
+- Maintain control registers and evidence-tracking templates.
+- Explore the relationship between ISO/IEC 27001 and SOC 2 without treating the frameworks as interchangeable.
+- Demonstrate practical governance, risk management, and compliance documentation skills.
 
 ## Repository Structure
 
 ```text
-.
+Security-compliance-frameworks/
 ├── README.md
 ├── control-mapping/
 ├── iso-27001/
@@ -30,5 +33,10 @@ This repository is a learning and demonstration portfolio. It does not represent
 │   ├── risk-assessment/
 │   └── statement-of-applicability/
 ├── soc-2/
-│   └── README.md
+│   ├── README.md
+│   ├── audit-readiness/
+│   ├── control-matrix/
+│   ├── evidence/
+│   ├── policies/
+│   └── trust-services-criteria/
 └── templates/
