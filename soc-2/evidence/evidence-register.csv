@@ -1,11 +1,40 @@
 Evidence ID,Control ID,Evidence Description,Evidence Type,Owner,Frequency,Storage Reference,Status
-EV-001,CC1.1,Code of conduct and ethics policy,Document,Management,Annual,TBD,Planned
-EV-002,CC2.2,Security policy acknowledgments,Record,IT Security,Annual,TBD,Planned
-EV-003,CC3.2,Information security risk assessment and risk register,Assessment,IT Security,Annual,TBD,Planned
-EV-004,CC6.1,Access control policy and access review records,Policy and Record,IT Security,Quarterly,TBD,Planned
-EV-005,CC6.2,User access requests and approval records,Record,IT Operations,Per change,TBD,Planned
-EV-006,CC7.2,SIEM alerts and security monitoring logs,Log,SOC Team,Continuous,TBD,Planned
-EV-007,CC7.3,Incident investigation tickets and reports,Record,SOC Team,Per incident,TBD,Planned
-EV-008,CC8.1,Change requests and approval records,Record,IT Operations,Per change,TBD,Planned
-EV-009,CC9.2,Vendor risk assessments,Assessment,Procurement & IT Security,Annual,TBD,Planned
-EV-010,A1.1,Availability and capacity monitoring reports,Report,IT Operations,Continuous,TBD,Planned
+SOC2-EV-001,CC1.1,Code of conduct and ethics policy,Document,Management,Annual,TBD,Planned
+SOC2-EV-002,CC2.2,Security policy acknowledgments,Record,IT Security,Annual,TBD,Planned
+SOC2-EV-003,CC3.2,Information security risk assessment and risk register,Assessment,IT Security,Annual,TBD,Planned
+SOC2-EV-004,CC6.1,Access control policy and access review records,Policy and Record,IT Security,Quarterly,TBD,Planned
+SOC2-EV-005,CC6.2,User access requests and approval records,Record,IT Operations,Per change,TBD,Planned
+SOC2-EV-006,CC7.2,SIEM alerts and security monitoring logs,Log,SOC,Continuous,TBD,Planned
+SOC2-EV-007,CC7.3,Incident investigation tickets and reports,Record,SOC,Per incident,TBD,Planned
+SOC2-EV-008,CC8.1,Change requests and approval records,Record,IT Operations,Per change,TBD,Planned
+SOC2-EV-009,CC9.2,Vendor risk assessments,Assessment,Procurement & IT Security,Annual,TBD,Planned
+SOC2-EV-010,A1.1,Availability and capacity monitoring reports,Report,IT Operations,Continuous,TBD,Planned
+SOC2-EV-011,CC4.1,Monitoring review and follow-up records,Review Record,Management,Quarterly,TBD,Planned
+SOC2-EV-012,CC4.2,Deficiency and remediation tracker,Tracker,IT Security,Quarterly,TBD,Planned
+SOC2-EV-013,CC5.2,Security configuration review records,Technical Record,IT Operations,Quarterly,TBD,Planned
+SOC2-EV-014,CC5.3,Approved procedures and review records,Document,IT Security,Annual,TBD,Planned
+SOC2-EV-015,A1.2,Backup and recovery records,Backup Record,IT Operations,Per schedule,TBD,Planned
+SOC2-EV-016,A1.3,Recovery test results and corrective actions,Test Record,IT Operations,Annual,TBD,Planned
+SOC2-EV-017,CC1.2,Governance charter and oversight records,Planned evidence,Management,Annual,TBD,Planned
+SOC2-EV-018,CC1.3,Organization chart and role matrix,Planned evidence,Management,Annual,TBD,Planned
+SOC2-EV-019,CC1.4,Competency matrix and training records,Planned evidence,HR; IT Security,Annual,TBD,Planned
+SOC2-EV-020,CC1.5,Disciplinary and accountability records,Planned evidence,Management; HR,Per event,TBD,Planned
+SOC2-EV-021,CC2.1,Risk and security reporting,Planned evidence,IT Security,Quarterly,TBD,Planned
+SOC2-EV-022,CC2.3,External communication records,Planned evidence,Management; IT Security,As needed,TBD,Planned
+SOC2-EV-023,CC3.1,Security objectives and review records,Planned evidence,Management,Annual,TBD,Planned
+SOC2-EV-024,CC3.3,Risk assessment and fraud scenarios,Planned evidence,IT Security; Management,Annual,TBD,Planned
+SOC2-EV-025,CC3.4,Change impact and risk review records,Planned evidence,IT Security,Per change,TBD,Planned
+SOC2-EV-026,CC6.3,Access approvals and deprovisioning records,Planned evidence,IT Operations,Per change,TBD,Planned
+SOC2-EV-027,CC6.6,Network boundary and logical access configuration reviews,Planned evidence,IT Operations,Quarterly,TBD,Planned
+SOC2-EV-028,CC6.7,Data transfer controls and review records,Planned evidence,IT Security,Quarterly,TBD,Planned
+SOC2-EV-029,CC6.8,Endpoint protection and software control records,Planned evidence,IT Operations,Continuous,TBD,Planned
+SOC2-EV-030,CC7.1,Vulnerability scans and remediation tracker,Planned evidence,IT Security,Monthly,TBD,Planned
+SOC2-EV-031,CC7.4,Incident response tickets and post-incident reviews,Planned evidence,SOC,Per incident,TBD,Planned
+SOC2-EV-032,CC7.5,Recovery records and validation results,Planned evidence,IT Operations,Per incident,TBD,Planned
+SOC2-EV-033,CC9.1,Continuity risk assessment and plans,Planned evidence,Management; IT Operations,Annual,TBD,Planned
+SOC2-EV-034,C1.1,Classification and confidentiality control records,Planned evidence,IT Security,Annual,TBD,Planned
+SOC2-EV-035,PI1.1,Processing requirements and review records,Planned evidence,Service Owner,Annual,TBD,Planned
+SOC2-EV-036,P1.1,Privacy notice and processing inventory,Planned evidence,Privacy Lead,Annual,TBD,Planned
+SOC2-EV-037,CC5.1,Control design and approval records,Planned evidence,Management; IT Security,Annual,TBD,Planned
+SOC2-EV-038,CC6.4,Physical access logs and access reviews,Planned evidence,Facilities; IT Security,Quarterly,TBD,Planned
+SOC2-EV-039,CC6.5,Physical and environmental safeguard inspection records,Planned evidence,IT Operations,Continuous,TBD,Planned

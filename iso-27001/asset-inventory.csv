@@ -1,0 +1,8 @@
+Asset ID,Asset Name,Asset Type,Owner,Information Classification,Location or Service,Dependencies,Criticality,Status,Review Date
+AST-001,Identity and access management service,Identity service,IT Security,Confidential,Cloud service,Identity provider,High,Illustrative — validate,TBD
+AST-002,Cloud file storage,Cloud data store,IT Security,Confidential,Cloud service,Cloud provider,High,Illustrative — validate,TBD
+AST-003,Production servers,Compute,IT Operations,Internal,Hosting environment,Network and backup services,High,Illustrative — validate,TBD
+AST-004,Employee endpoints,Endpoint fleet,IT Operations,Internal,Remote and office use,Identity and endpoint protection,Medium,Illustrative — validate,TBD
+AST-005,Network infrastructure,Network,IT Operations,Internal,Network environment,Telecom and network service providers,High,Illustrative — validate,TBD
+AST-006,Central logging and SIEM,Security monitoring platform,SOC,Confidential,Cloud or hosted service,Log sources and identity services,High,Illustrative — validate,TBD
+AST-007,Backup and recovery service,Data protection service,IT Operations,Confidential,Cloud or hosted service,Storage provider and network,High,Illustrative — validate,TBD

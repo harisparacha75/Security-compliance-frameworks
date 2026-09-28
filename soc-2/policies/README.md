@@ -15,20 +15,15 @@ The following sample policies are available:
 | [Information Security Policy](information-security-policy.md) | Defines the organization's approach to protecting information and systems. |
 | [Access Control Policy](access-control-policy.md) | Describes how access is requested, approved, reviewed, and revoked. |
 | [Incident Response Policy](incident-response-policy.md) | Defines how security incidents are reported, assessed, and handled. |
+| [Change Management Policy](change-management-policy.md) | Defines how system changes are reviewed, approved, tested, and documented. |
 
-## Planned Policies
 
-The following policy is planned for future development:
-
-| Policy | Description | Status |
-|---|---|---|
-| Change Management Policy | Describes how system changes are reviewed, approved, tested, and documented. | Planned |
 
 ## Status
 
 The available policies are illustrative examples. They have not been approved, adopted, or tested by an actual organization.
 
-The Change Management Policy has not yet been developed.
+The Change Management Policy is a draft portfolio example and has not been approved or adopted.
 
 ## Disclaimer
 

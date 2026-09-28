@@ -10,6 +10,7 @@ The examples cover risk assessment, risk treatment, control applicability, and e
 
 | Directory | Description |
 |---|---|
+| `isms-scope.md` | Fictional portfolio scope statement |
 | `risk-assessment/` | Risk assessment methodology, risk register, and risk treatment plan |
 | `statement-of-applicability/` | Sample Statement of Applicability (SoA) and control applicability rationale |
 | `evidence/` | Evidence register with planned evidence references |
@@ -26,8 +27,18 @@ The examples cover risk assessment, risk treatment, control applicability, and e
 
 ## Current Status
 
-This is a work in progress. The registers contain illustrative entries, and evidence collection and control implementation have not been verified.
+This is a work in progress. The registers contain illustrative entries. The SoA register lists all 93 Annex A controls, but only 32 have illustrative applicability decisions (22 applicable, 10 excluded with sample rationale); 61 remain `Pending assessment`. It is not a completed assessment. Evidence collection and control implementation have not been verified.
 
 ## Disclaimer
 
 This repository is a demonstration portfolio. It does not represent an operational or certified ISO 27001 Information Security Management System, nor does it claim compliance with ISO/IEC 27001:2022.
+
+
+## Additional draft materials
+
+- `isms-scope.md` — illustrative scope and boundaries.
+- `asset-inventory.csv` — fictional starter inventory requiring validation.
+- `governance/` — context/interested-party, objectives, competence, communication, internal audit, management review, and corrective-action templates for clauses 4–10.
+- `procedures/` — classification, backup/recovery, vulnerability, malware, identity lifecycle, supplier security, and continuity templates.
+
+These documents are drafts and do not demonstrate an operating ISMS, completed risk assessment, or compliance.

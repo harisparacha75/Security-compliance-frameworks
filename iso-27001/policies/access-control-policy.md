@@ -1,9 +1,10 @@
 # Access Control Policy
 
-**Document ID:** POL-AC-001  
+**Document ID:** ISO-POL-002  
 **Version:** 1.0  
-**Status:** Sample - For Portfolio Use  
-**Review Cycle:** Annually  
+**Status:** Draft — Portfolio Example  
+**Owner:** IT Security  
+**Review Frequency:** Annually  
 
 ---
 

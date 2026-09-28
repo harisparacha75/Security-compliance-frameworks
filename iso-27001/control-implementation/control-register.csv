@@ -1,11 +1,29 @@
 Control ID,Control Name,Implementation Status,Control Owner,Implementation Description,Evidence,Review Frequency
-A.5.15,Access control,Not assessed,IT Security,Define and enforce access control rules,Access control policy; access review records,Annual
-A.5.16,Identity management,Not assessed,IT Security,Manage identity creation modification and removal,Identity lifecycle records,Annual
-A.5.17,Authentication information,Not assessed,IT Security,Protect authentication information and establish handling requirements,Authentication policy; configuration records,Annual
-A.5.18,Access rights,Not assessed,IT Security,Grant review and revoke access rights,Access review records; access change records,Quarterly
-A.5.24,Information security incident management planning and preparation,Not assessed,IT Security,Define incident management roles procedures and preparation activities,Incident response policy; incident response plan,Annual
-A.5.26,Response to information security incidents,Not assessed,IT Security,Define procedures for responding to and managing information security incidents,Incident response records; incident response policy,Annual
-A.8.7,Protection against malware,Not assessed,IT Security,Define measures for malware prevention detection and response,Malware protection records; security configuration records,Quarterly
-A.8.8,Management of technical vulnerabilities,Not assessed,IT Security,Identify assess and manage technical vulnerabilities,Vulnerability assessment records; remediation tracking,Quarterly
-A.8.15,Logging,Not assessed,IT Security,Define logging requirements and protect relevant log records,Logging policy; log configuration records,Quarterly
-A.8.16,Monitoring activities,Not assessed,IT Security,Define monitoring activities for detecting anomalous behavior,Monitoring rules; alert review records,Quarterly
+A.5.15,Access control,Planned,IT Security,Define and enforce access control rules,ISO-EV-001,Annual
+A.5.16,Identity management,Planned,IT Security,Manage identity creation modification and removal,ISO-EV-004,Annual
+A.5.17,Authentication information,Planned,IT Security,Protect authentication information and establish handling requirements,ISO-EV-002,Annual
+A.5.18,Access rights,Planned,IT Security,Grant review and revoke access rights,ISO-EV-005,Quarterly
+A.5.24,Information security incident management planning and preparation,Planned,IT Security,Define incident management roles procedures and preparation activities,ISO-EV-006,Annual
+A.5.26,Response to information security incidents,Planned,IT Security,Define procedures for responding to and managing information security incidents,ISO-EV-009,Annual
+A.8.7,Protection against malware,Planned,IT Security,Define measures for malware prevention detection and response,ISO-EV-007,Quarterly
+A.8.8,Management of technical vulnerabilities,Planned,IT Security,Identify assess and manage technical vulnerabilities,ISO-EV-008,Quarterly
+A.8.15,Logging,Planned,IT Security,Define logging requirements and protect relevant log records,ISO-EV-003,Quarterly
+A.8.16,Monitoring activities,Planned,IT Security,Define monitoring activities for detecting anomalous behavior,ISO-EV-010,Quarterly
+A.8.5,Secure authentication,Planned,IT Security,Enforce multi-factor authentication and secure authentication mechanisms,ISO-EV-011,Annual
+A.8.13,Information backup,Planned,IT Operations,Maintain protected backups and perform restoration tests,ISO-EV-012,Quarterly
+A.8.14,Redundancy of information processing facilities,Planned,IT Operations,Identify critical single points of failure and maintain appropriate redundancy,ISO-EV-013,Annual
+A.8.32,Change management,Planned,IT Operations,"Authorize, test, record, and review changes to production systems",ISO-EV-014,Per change
+A.5.12,Classification of information,Planned,IT Security,Classify and label information according to protection needs,ISO-EV-015,Annual
+A.6.3,"Information security awareness, education and training",Planned,IT Security,Provide role-appropriate security awareness and phishing training,ISO-EV-016,Annual
+A.5.1,Policies for information security,Planned,IT Security,"Define, approve, publish, and periodically review information security policies",ISO-EV-017,Annual
+A.5.10,Acceptable use of information and other associated assets,Planned,IT Security,Define and communicate rules for acceptable use of information and assets,ISO-EV-018,Annual
+A.8.2,Privileged access rights,Planned,IT Security,"Restrict, authorize, review, and log privileged access rights",ISO-EV-019,Quarterly
+A.5.23,Information security for use of cloud services,Planned,IT Security,Define security requirements and review processes for acquiring and using cloud services,ISO-EV-020,Annual
+A.8.20,Network security,Planned,IT Operations,"Secure, manage, and control networks and network devices",ISO-EV-021,Quarterly
+A.8.22,Segregation of networks,Planned,IT Operations,"Segregate groups of information services, users, and systems on networks",ISO-EV-022,Annual
+A.5.19,Information security in supplier relationships,Planned,Vendor Management,Assess and monitor supplier security risks,ISO-EV-023,Annual
+A.5.20,Addressing information security within supplier agreements,Planned,Vendor Management,Define security requirements in supplier agreements,ISO-EV-024,Per agreement
+A.5.21,Managing information security in the ICT supply chain,Planned,Vendor Management,Assess ICT supply chain dependencies and risks,ISO-EV-025,Annual
+A.5.22,"Monitoring, review and change management of supplier services",Planned,Vendor Management,"Review supplier service performance, assurance, and material changes",ISO-EV-026,Annual
+A.8.12,Data leakage prevention,Planned,IT Security,Apply risk-based controls to prevent unauthorized data disclosure,ISO-EV-027,Quarterly
+A.8.17,Clock synchronization,Planned,IT Operations,Synchronize relevant system clocks to approved time sources,ISO-EV-028,Quarterly

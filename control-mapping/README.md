@@ -1,5 +1,7 @@
 # Cross-framework control mapping
 
-This folder will contain a crosswalk between selected ISO/IEC 27001:2022 controls and relevant SOC 2 Trust Services Criteria.
+This directory contains an illustrative crosswalk between selected ISO/IEC 27001:2022 Annex A controls and SOC 2 Trust Services Criteria. The crosswalk is a starting point for analysis, not a control equivalence claim.
 
-Mappings will be treated as relationships between control objectives—not as proof that one framework automatically satisfies the other. Each mapping should include rationale, scope, and limitations.
+- [ISO 27001–SOC 2 crosswalk](iso27001-soc2-crosswalk.csv)
+
+Each relationship requires organization-specific validation of scope, control design, implementation, and evidence. A mapping does not establish compliance with either framework.

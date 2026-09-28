@@ -1,9 +1,9 @@
 # Acceptable Use Policy
 
-**Document ID:** AUP-001  
+**Document ID:** ISO-POL-001
 **Version:** 1.0  
-**Status:** Draft  
-**Owner:** Information Security Manager  
+**Status:** Draft — Portfolio Example  
+**Owner:** IT Security  
 **Review Frequency:** Annually
 
 ## 1. Purpose

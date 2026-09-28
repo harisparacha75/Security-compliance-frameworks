@@ -8,7 +8,7 @@ The matrix is intended for learning and portfolio demonstration purposes only.
 
 ## Scope
 
-The matrix includes selected criteria from the following Trust Services Categories:
+The matrix includes selected criteria from the following Trust Services Categories. It includes examples under CC4, CC5, and Availability, but is not a complete mapping of all criteria:
 
 - Security (Common Criteria)
 - Availability

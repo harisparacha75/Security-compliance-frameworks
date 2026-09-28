@@ -1,9 +1,9 @@
 # Information Security Policy
 
-**Document ID:** ISP-001  
+**Document ID:** ISO-POL-003
 **Version:** 1.0  
-**Status:** Draft  
-**Owner:** Information Security Manager  
+**Status:** Draft — Portfolio Example  
+**Owner:** IT Security  
 **Review Frequency:** Annually
 
 ## 1. Purpose
@@ -12,7 +12,7 @@ This policy defines the principles and responsibilities for protecting informati
 
 ## 2. Scope
 
-This policy applies to employees, contractors, third parties, information systems, networks, applications, and data within the organization's defined ISMS scope.
+This policy applies to employees, contractors, third parties, information systems, networks, applications, and data within the illustrative ISMS scope described in [ISMS Scope](../isms-scope.md).
 
 ## 3. Policy Objectives
 
@@ -21,6 +21,7 @@ This policy applies to employees, contractors, third parties, information system
 - Support risk-based security controls.
 - Ensure compliance with applicable legal, regulatory, and contractual requirements.
 - Maintain business continuity and incident response capabilities.
+- Continually improve the suitability, adequacy, and effectiveness of the ISMS through review, corrective action, and lessons learned.
 
 ## 4. Information Security Requirements
 
@@ -50,7 +51,7 @@ Relevant information security risks associated with suppliers and third parties 
 | Role | Responsibility |
 |---|---|
 | Management | Approves the policy and provides resources. |
-| Information Security Manager | Coordinates implementation and monitoring. |
+| IT Security | Coordinates implementation and monitoring. |
 | Asset Owners | Ensure appropriate protection of assigned assets. |
 | Employees | Follow security requirements and report incidents. |
 
@@ -62,7 +63,11 @@ Violations of this policy must be reported and handled according to organization
 
 Exceptions must be documented, risk-assessed, approved by an authorized person, and reviewed periodically.
 
-## 8. Review and Approval
+## 8. Communication and Continual Improvement
+
+This policy must be communicated to relevant personnel and made available to appropriate interested parties. Personnel must acknowledge or otherwise confirm awareness where required. The organization should review security performance, address nonconformities, and continually improve the ISMS.
+
+## 9. Review and Approval
 
 This policy must be reviewed at least annually or when significant changes occur.
 

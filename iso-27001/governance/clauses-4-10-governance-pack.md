@@ -1,0 +1,33 @@
+# ISO/IEC 27001 Clauses 4–10 Governance Pack
+
+**Document ID:** ISO-GOV-001  
+**Version:** 0.1  
+**Status:** Draft — Portfolio Example  
+**Owner:** IT Security  
+**Review Cycle:** Annually and after significant change
+
+## 1. Purpose and requirements
+
+This pack provides draft governance templates for organizational context, interested parties, leadership, objectives, competence and awareness, communication, documented information, operational planning, performance evaluation, internal audit, management review, nonconformity, and continual improvement. Complete context and interested-party registers, measurable objectives, competence records, audit program and reports, management review minutes, corrective-action records, and approvals before claiming an operating ISMS.
+
+## 2. Roles and records
+
+Assign an accountable owner, approval authority, review cadence, evidence location, and escalation path before operational use. Record decisions, exceptions, reviews, and corrective actions.
+
+## 3. Implementation checklist
+
+- [ ] Tailor requirements to the approved scope and risk assessment.
+- [ ] Assign an accountable owner and approver.
+- [ ] Define measurable operating criteria and exception handling.
+- [ ] Communicate the approved document to affected personnel.
+- [ ] Retain implementation and review evidence.
+- [ ] Review after significant changes and at the defined review cycle.
+
+## 4. Approval
+
+**Approver:** TBD  
+**Approval date:** TBD  
+**Next review:** TBD
+
+---
+**Disclaimer:** Draft illustrative portfolio template only. It is not approved, adopted, or evidence of ISO/IEC 27001 compliance.

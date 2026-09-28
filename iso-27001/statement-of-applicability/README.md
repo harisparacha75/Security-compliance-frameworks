@@ -1,49 +1,9 @@
-# Statement of Applicability (SoA)
+# Statement of Applicability (SoA) — Portfolio Sample
 
-## Purpose
+The `soa-register.csv` lists the 93 ISO/IEC 27001:2022 Annex A control references and names for navigation. This is **not a completed Statement of Applicability**. 22 controls are marked applicable, 8 have illustrative exclusions, and 63 remain `Pending assessment` and must be evaluated against an approved ISMS scope and risk treatment.
 
-The Statement of Applicability (SoA) identifies the information security controls considered applicable to the sample Information Security Management System (ISMS).
+The sample includes illustrative exclusions with rationale to demonstrate how an exclusion decision can be documented. These examples are not organizational decisions. Applicable sample controls use `Planned`; this means the control is not represented as implemented. Evidence references point to the ISO evidence register where a sample evidence item exists; `TBD` means none is currently assigned.
 
-It records control applicability, justification, implementation status, and evidence references.
+Before operational use, an organization must validate all applicability decisions, exclusions, control implementation status, evidence references, and approval records.
 
-## Scope
-
-This portfolio contains an illustrative SoA based on selected controls from ISO/IEC 27001:2022 Annex A. It is a learning and demonstration project, not an assessment of a real organization's compliance.
-
-## SoA Register
-
-The `soa-register.csv` file contains 10 illustrative control entries with the following fields:
-
-- Control ID
-- Control Name
-- Applicable
-- Justification
-- Implementation Status
-- Evidence Reference
-
-## Controls Included
-
-| Control ID | Control Name |
-|---|---|
-| A.5.15 | Access control |
-| A.5.16 | Identity management |
-| A.5.17 | Authentication information |
-| A.5.18 | Access rights |
-| A.5.24 | Information security incident management planning and preparation |
-| A.5.26 | Response to information security incidents |
-| A.8.7 | Protection against malware |
-| A.8.8 | Management of technical vulnerabilities |
-| A.8.15 | Logging |
-| A.8.16 | Monitoring activities |
-
-## Implementation Status
-
-All entries are marked `Planned (example)`. These statuses are illustrative and do not indicate that the controls have been implemented or tested.
-
-## Evidence
-
-Evidence references are currently marked `TBD`. Planned evidence is tracked separately in the evidence register.
-
-## Disclaimer
-
-This repository is a demonstration portfolio. It does not represent an operational or certified ISMS, nor does it establish ISO/IEC 27001 compliance.
+**Disclaimer:** Educational portfolio material only; not evidence of ISO 27001 compliance or certification.

@@ -1,0 +1,5 @@
+Objective ID,Objective,Metric,Target,Owner,Review Frequency,Status,Review Evidence
+OBJ-001,Improve timely remediation of critical vulnerabilities,Percentage of critical findings remediated within approved target,TBD,IT Security,Monthly,Pending approval,TBD
+OBJ-002,Improve privileged access governance,Percentage of privileged accounts reviewed on schedule,TBD,IT Security,Quarterly,Pending approval,TBD
+OBJ-003,Validate backup recoverability,Percentage of scheduled restoration tests completed successfully,TBD,IT Operations,Quarterly,Pending approval,TBD
+OBJ-004,Improve incident response readiness,Percentage of planned response exercises completed,TBD,SOC,Annual,Pending approval,TBD

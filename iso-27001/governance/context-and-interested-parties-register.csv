@@ -1,0 +1,9 @@
+Item ID,Type,Issue or Requirement,Relevance to ISMS,Owner,Review Frequency,Status,Evidence Reference
+CTX-001,Internal issue,Roles and resourcing for information security,Influences governance and control operation,Management,Annual,Pending assessment,TBD
+CTX-002,Internal issue,Technology and asset changes,Influences risk and control scope,IT Security,Quarterly,Pending assessment,TBD
+CTX-003,External issue,Threat landscape and vulnerabilities,Influences risk assessment and treatment,IT Security,Quarterly,Pending assessment,TBD
+CTX-004,External issue,Cloud and supplier dependencies,Influences service security and continuity,Vendor Management,Annual,Pending assessment,TBD
+IP-001,Interested party,Customers,Security and service commitments,Service Owner,Annual,Pending assessment,TBD
+IP-002,Interested party,Employees and contractors,Security responsibilities and awareness,HR,Annual,Pending assessment,TBD
+IP-003,Interested party,Regulators and contractual parties,Applicable legal and contractual requirements,Legal/Compliance,Annual,Pending assessment,TBD
+IP-004,Interested party,Cloud and service providers,Shared responsibilities and supplier assurance,Vendor Management,Annual,Pending assessment,TBD

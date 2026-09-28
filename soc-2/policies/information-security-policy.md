@@ -3,7 +3,7 @@
 **Document ID:** SOC2-POL-001  
 **Version:** 1.0  
 **Status:** Draft — Portfolio Example  
-**Policy Owner:** Information Security  
+**Policy Owner:** IT Security  
 **Review Frequency:** Annually and after significant changes
 
 ## 1. Purpose

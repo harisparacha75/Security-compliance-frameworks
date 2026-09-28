@@ -1,5 +1,10 @@
-
 # Incident Response Policy
+
+**Document ID:** ISO-POL-004
+**Version:** 1.0  
+**Status:** Draft — Portfolio Example  
+**Owner:** IT Security  
+**Review Frequency:** Annually
 
 ## 1. Purpose
 
@@ -33,8 +38,8 @@ This policy applies to all employees, contractors, information systems, networks
 
 | Role | Responsibility |
 |---|---|
-| Security Team | Investigate and respond to incidents |
-| IT Team | Contain threats and restore systems |
+| IT Security | Investigate and respond to incidents |
+| IT Operations | Contain threats and restore systems |
 | Management | Approve major response actions |
 | Employees | Report suspected incidents |
 
@@ -44,8 +49,12 @@ Failure to comply with this policy may result in corrective action under organiz
 
 ## 6. Review and Approval
 
-- **Policy Owner:** Information Security Manager
+- **Policy Owner:** IT Security
 - **Approved By:** To be assigned
 - **Review Frequency:** Annually
 - **Version:** 1.0
-- **Status:** Draft
+- **Status:** Draft — Portfolio Example
+
+---
+
+**Disclaimer:** Illustrative portfolio policy only. It has not been approved or adopted by an actual organization and does not demonstrate ISO 27001 compliance.

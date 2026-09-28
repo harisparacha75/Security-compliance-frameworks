@@ -3,7 +3,7 @@
 **Document ID:** SOC2-POL-003  
 **Version:** 1.0  
 **Status:** Draft — Portfolio Example  
-**Policy Owner:** Information Security  
+**Policy Owner:** IT Security  
 **Review Frequency:** Annually and after significant incidents
 
 ## 1. Purpose
@@ -29,7 +29,7 @@ This policy applies to employees, contractors, and other authorized users who ac
 
 ### 3.3 Roles and Responsibilities
 - **Incident Response Lead:** Coordinates response activities and assigns responsibilities.
-- **Information Security Team:** Investigates incidents, analyzes evidence, and coordinates containment.
+- **IT Security:** Investigates incidents, analyzes evidence, and coordinates containment.
 - **IT Operations:** Supports isolation, remediation, restoration, and technical recovery.
 - **Management:** Provides oversight and approves significant business decisions.
 - **Legal and Privacy Representatives:** Assess applicable legal, contractual, and privacy obligations.

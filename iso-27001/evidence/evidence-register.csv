@@ -1,11 +1,29 @@
 Evidence ID,Control ID,Evidence Name,Description,Evidence Type,Owner,Status,File Reference,Review Date
-EV-001,A.5.15,Access Control Policy,Documented access control requirements,Policy,Security Team,Planned,TBD,TBD
-EV-002,A.5.17,Authentication Policy,Authentication and MFA requirements,Policy,Security Team,Planned,TBD,TBD
-EV-003,A.8.15,Logging and Monitoring Records,Security event logging evidence,Log Records,SOC Team,Planned,TBD,TBD
-EV-004,A.5.16,Identity Management Records,User account lifecycle and access management evidence,Access Records,IT Team,Planned,TBD,TBD
-EV-005,A.5.18,Access Review Records,Periodic access review evidence,Review Records,IT Team,Planned,TBD,TBD
-EV-006,A.5.24,Incident Response Plan,Incident response planning and preparation documentation,Plan,SOC Team,Planned,TBD,TBD
-EV-007,A.8.7,Malware Protection Records,Endpoint malware protection evidence,Technical Records,IT Team,Planned,TBD,TBD
-EV-008,A.8.8,Vulnerability Management Records,Technical vulnerability assessment and remediation evidence,Assessment,SOC Team,Planned,TBD,TBD
-EV-009,A.5.26,Incident Response Records,Records documenting incident response activities and handling,Incident Records,SOC Team,Planned,TBD,TBD
-EV-010,A.8.16,Monitoring Activity Records,Records of monitoring activities and alert reviews,Monitoring Records,SOC Team,Planned,TBD,TBD
+ISO-EV-001,A.5.15,Access Control Policy,Documented access control requirements,Policy,IT Security,Planned,TBD,TBD
+ISO-EV-002,A.5.17,Authentication Policy,Authentication and MFA requirements,Policy,IT Security,Planned,TBD,TBD
+ISO-EV-003,A.8.15,Logging and Monitoring Records,Security event logging evidence,Log Records,SOC,Planned,TBD,TBD
+ISO-EV-004,A.5.16,Identity Management Records,User account lifecycle and access management evidence,Access Records,IT Operations,Planned,TBD,TBD
+ISO-EV-005,A.5.18,Access Review Records,Periodic access review evidence,Review Records,IT Operations,Planned,TBD,TBD
+ISO-EV-006,A.5.24,Incident Response Plan,Incident response planning and preparation documentation,Plan,SOC,Planned,TBD,TBD
+ISO-EV-007,A.8.7,Malware Protection Records,Endpoint malware protection evidence,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-008,A.8.8,Vulnerability Management Records,Technical vulnerability assessment and remediation evidence,Assessment,SOC,Planned,TBD,TBD
+ISO-EV-009,A.5.26,Incident Response Records,Records documenting incident response activities and handling,Incident Records,SOC,Planned,TBD,TBD
+ISO-EV-010,A.8.16,Monitoring Activity Records,Records of monitoring activities and alert reviews,Monitoring Records,SOC,Planned,TBD,TBD
+ISO-EV-011,A.8.5,Secure Authentication and MFA Records,Configuration and review records for MFA and secure authentication,Configuration Records,IT Security,Planned,TBD,TBD
+ISO-EV-012,A.8.13,Backup and Restoration Test Records,"Backup schedules, protection settings, and restoration test results",Backup Records,IT Operations,Planned,TBD,TBD
+ISO-EV-013,A.8.14,Redundancy Design and Test Records,Design and test records for redundancy of critical information processing facilities,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-014,A.8.32,Change Management Records,"Change requests, approvals, test evidence, and implementation records",Change Records,IT Operations,Planned,TBD,TBD
+ISO-EV-015,A.5.12,Information Classification Standard and Inventory,"Classification scheme, labels, and sample classification records",Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-016,A.6.3,Security Awareness and Training Records,"Training materials, attendance, and awareness completion records",Training Records,IT Security,Planned,TBD,TBD
+ISO-EV-017,A.5.1,Information Security Policy and Approval Records,"Approved policy set, communication, and review records",Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-018,A.5.10,Acceptable Use Policy and Acknowledgments,Acceptable use policy and user acknowledgment records,Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-019,A.8.2,Privileged Access Records,"Privileged account inventory, approvals, and review records",Access Records,IT Security,Planned,TBD,TBD
+ISO-EV-020,A.5.23,Cloud Service Security Requirements and Reviews,"Cloud service requirements, configuration reviews, and permission reviews",Assessment,IT Security,Planned,TBD,TBD
+ISO-EV-021,A.8.20,Network Security Configuration and Review Records,Network device configuration baselines and review records,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-022,A.8.22,Network Segregation Design and Review Records,Network segmentation design and review records,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-023,A.5.19,Supplier Security Assessment Records,"Supplier inventory, due diligence, and supplier risk reviews",Assessment Records,Vendor Management,Planned,TBD,TBD
+ISO-EV-024,A.5.20,Supplier Agreement Security Records,Security clauses and supplier contractual requirements,Contract Records,Vendor Management,Planned,TBD,TBD
+ISO-EV-025,A.5.21,ICT Supply Chain Review Records,ICT supply chain and dependency risk reviews,Assessment Records,Vendor Management,Planned,TBD,TBD
+ISO-EV-026,A.5.22,Supplier Service Review Records,"Supplier performance, assurance, and change reviews",Review Records,Vendor Management,Planned,TBD,TBD
+ISO-EV-027,A.8.12,Data Leakage Prevention Records,"Data transfer restrictions, monitoring, and leakage response evidence",Technical Records,IT Security,Planned,TBD,TBD
+ISO-EV-028,A.8.17,Clock Synchronization Records,Time synchronization configuration and monitoring records,Technical Records,IT Operations,Planned,TBD,TBD

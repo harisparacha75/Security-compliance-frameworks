@@ -1,26 +1,33 @@
-# SOC 2 Audit Readiness
+# SOC 2 Readiness Planning Checklist
 
-## Purpose
+**Status:** Planning template — no assessment performed. Items are not marked complete.
 
-This directory contains a checklist for preparing documentation and evidence for a SOC 2 examination.
+## Governance and scope
+- [ ] Define the service organization, system, services, boundaries, locations, and period.
+- [ ] Select applicable Trust Services Categories and justify exclusions.
+- [ ] Complete and approve the system description, including data flows and dependencies.
+- [ ] Identify service commitments, system requirements, and subservice organizations.
+- [ ] Identify complementary user-entity controls and complementary subservice-organization controls, as applicable.
+- [ ] Assign control owners and evidence custodians.
 
-## Readiness Checklist
+## Risk and control design
+- [ ] Complete system risk assessment and risk treatment.
+- [ ] Map selected criteria to controls, owners, frequency, and evidence.
+- [ ] Review control design and identify design gaps.
+- [ ] Approve security, access, incident response, change, vendor, backup, and recovery policies.
+- [ ] Define exception handling and risk acceptance.
 
-- [ ] Define the system scope and boundaries.
-- [ ] Identify applicable Trust Services Criteria.
-- [ ] Map controls to the applicable criteria.
-- [ ] Assign control owners and review frequencies.
-- [ ] Document policies and procedures.
-- [ ] Identify required evidence for each control.
-- [ ] Review access management and security monitoring.
-- [ ] Document incidents and remediation activities.
-- [ ] Identify control gaps and track remediation.
-- [ ] Review evidence completeness and retention.
+## Evidence and operation
+- [ ] Establish evidence collection procedures, retention, and access protections.
+- [ ] Collect period-specific evidence for each control.
+- [ ] Perform and document access reviews, vulnerability remediation, change approvals, incident exercises, backup restores, and recovery tests as applicable.
+- [ ] Track exceptions, incidents, deficiencies, and corrective actions to closure.
+- [ ] Review third-party assurance and complementary controls.
 
-## Status
+## Examination preparation
+- [ ] Confirm Type 1 or Type 2 scope and period with the independent practitioner.
+- [ ] Reconcile system description, control matrix, evidence, exceptions, and management assertion.
+- [ ] Validate evidence completeness and period coverage.
+- [ ] Obtain management approval and complete practitioner-requested materials.
 
-This checklist is a planning template. No audit readiness assessment has been completed.
-
-## Disclaimer
-
-This is an educational portfolio project, not an audit report, attestation, or assurance opinion.
+**Disclaimer:** This checklist is a planning aid, not an audit-readiness assessment, SOC 2 report, or assurance opinion.
