@@ -2,7 +2,7 @@
 
 This folder contains illustrative SOC 2 readiness and control-documentation examples. The materials are for portfolio and learning purposes only and do not demonstrate SOC 2 compliance or audit readiness.
 
-## Planned contents
+## Contents
 
 - `trust-services-criteria/` — criteria mapping notes.
 - `control-matrix/` — sample control descriptions, owners, frequencies, and evidence.
