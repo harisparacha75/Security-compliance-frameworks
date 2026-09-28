@@ -1,11 +1,11 @@
 Control ID,Trust Services Category,Control Objective,Sample Control Activity,Owner,Frequency,Evidence,Status
-CC1.1,Security,Establish organizational integrity,Management defines and communicates security responsibilities,Management,Annual,Approved security roles and responsibilities,Planned
-CC2.1,Security,Communicate security information,Security policies are communicated to relevant personnel,IT Security,Annual,Policy acknowledgments,Planned
-CC3.2,Security,Identify and assess risks,Security risks are documented and assessed using a defined methodology,IT Security,Annual,Risk register and assessment records,Planned
+CC1.1,Security,Establish organizational integrity,Management defines and communicates responsibilities,Management,Annual,Approved security roles and responsibilities,Planned
+CC1.2,Security,Communicate security information,Security policies are communicated to relevant personnel,IT Security,Annual,Policy acknowledgments,Planned
+CC2.1,Security,Identify and assess risks,Security risks are documented and assessed using a defined methodology,IT Security,Annual,Risk register and assessment records,Planned
 CC6.1,Security,Restrict logical access,Access to systems is restricted based on approved roles and least privilege,IT Security,Quarterly,Access control policy and access review records,Planned
-CC6.2,Security,Manage user access,User access is approved and updated when roles change or employment ends,IT Operations,As needed,Access approval and termination records,Planned
-CC7.2,Security,Monitor systems for anomalies,Security events are monitored for suspicious activity,SOC Team,Continuous,SIEM alerts and monitoring logs,Planned
-CC7.3,Security,Evaluate security events,Detected security events are assessed and investigated,SOC Team,As needed,Incident tickets and investigation records,Planned
-CC8.1,Security,Manage system changes,Changes to systems are authorized, tested, and documented,IT Operations,Per change,Change tickets and approval records,Planned
-CC9.2,Security,Manage vendor-related risks,Third-party risks are assessed and reviewed,Procurement and IT Security,Annual,Vendor risk assessments,Planned
+CC6.2,Security,Manage user access,User access is approved and updated when roles or employment status changes,IT Operations,Per change,Access requests and approval records,Planned
+CC7.1,Security,Monitor systems for anomalies,Security events are monitored for suspicious activity,SOC Team,Continuous,SIEM alerts and monitoring logs,Planned
+CC7.3,Security,Evaluate security events,Detected security events are assessed and investigated,SOC Team,Per incident,Incident tickets and investigation records,Planned
+CC8.1,Security,Manage system changes,"Changes to systems are authorized, tested, and documented",IT Operations,Per change,Change tickets and approval records,Planned
+CC9.2,Security,Manage vendor-related risks,Third-party risks are assessed and reviewed,Procurement & IT Security,Annual,Vendor risk assessments,Planned
 A1.2,Availability,Monitor system availability,System availability and capacity are monitored,IT Operations,Continuous,Availability monitoring reports,Planned
