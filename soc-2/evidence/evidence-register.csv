@@ -1,11 +1,11 @@
 Evidence ID,Control ID,Evidence Description,Evidence Type,Owner,Frequency,Storage Reference,Status
-EV-001,CC1.1,Approved security roles and responsibilities,Document,Management,Annual,TBD,Planned
-EV-002,CC1.2,Security policy acknowledgments,Record,IT Security,Annual,TBD,Planned
-EV-003,CC2.1,Information security risk assessment and risk register,Assessment,IT Security,Annual,TBD,Planned
+EV-001,CC1.1,Code of conduct and ethics policy,Document,Management,Annual,TBD,Planned
+EV-002,CC2.2,Security policy acknowledgments,Record,IT Security,Annual,TBD,Planned
+EV-003,CC3.2,Information security risk assessment and risk register,Assessment,IT Security,Annual,TBD,Planned
 EV-004,CC6.1,Access control policy and access review records,Policy and Record,IT Security,Quarterly,TBD,Planned
 EV-005,CC6.2,User access requests and approval records,Record,IT Operations,Per change,TBD,Planned
-EV-006,CC7.1,SIEM alerts and security monitoring logs,Log, SOC Team,Continuous,TBD,Planned
+EV-006,CC7.2,SIEM alerts and security monitoring logs,Log,SOC Team,Continuous,TBD,Planned
 EV-007,CC7.3,Incident investigation tickets and reports,Record,SOC Team,Per incident,TBD,Planned
 EV-008,CC8.1,Change requests and approval records,Record,IT Operations,Per change,TBD,Planned
 EV-009,CC9.2,Vendor risk assessments,Assessment,Procurement & IT Security,Annual,TBD,Planned
-EV-010,A1.2,Availability and capacity monitoring reports,Report,IT Operations,Continuous,TBD,Planned
+EV-010,A1.1,Availability and capacity monitoring reports,Report,IT Operations,Continuous,TBD,Planned
