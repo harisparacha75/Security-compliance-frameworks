@@ -2,26 +2,33 @@
 
 ## Purpose
 
-This directory organizes illustrative evidence records that may support SOC 2 control activities.
+This directory contains an illustrative evidence register for the SOC 2 portfolio.
 
-## Evidence Examples
-
-- Access review records
-- User access approval records
-- Security incident records
-- Vulnerability scan reports
-- System monitoring logs
-- Backup and recovery test records
-- Change approval records
+The register links evidence items to the control activities documented in the SOC 2 control matrix.
 
 ## Evidence Register
 
-Evidence items should be linked to the relevant control ID in the SOC 2 control matrix.
+The `evidence-register.csv` file contains the following fields:
+
+- Evidence ID
+- Control ID
+- Evidence Description
+- Evidence Type
+- Owner
+- Frequency
+- Storage Reference
+- Status
+
+## Evidence Handling
+
+Evidence should be collected, reviewed, and retained according to the applicable control requirements and organizational policies.
+
+The `TBD` storage references indicate that actual evidence has not been provided.
 
 ## Status
 
-Evidence has not been collected or independently verified. Examples are for portfolio and learning purposes only.
+All entries are marked `Planned`. No evidence has been collected or independently verified.
 
 ## Disclaimer
 
-This is an educational portfolio project, not an audit report, attestation, or assurance opinion.
+This is an educational portfolio example. It is not a SOC 2 audit report, attestation, or assurance opinion.
