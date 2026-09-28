@@ -9,7 +9,7 @@ This directory documents the Trust Services Criteria (TSC) used to organize the 
 The portfolio focuses on the following criteria:
 
 - **Security (Common Criteria):** Controls related to protecting systems and information against unauthorized access and other security threats.
-- **Availability:** Controls related to maintaining system availability in accordance with defined commitments.
+- **Availability:** Controls related to maintaining system availability in accordance with defined comments.
 
 ## Control Mapping
 
