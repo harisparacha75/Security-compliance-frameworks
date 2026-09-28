@@ -1,4 +1,5 @@
-Risk ID,Risk Title,Asset,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Risk Treatment,Planned Controls,Risk Owner,Residual Likelihood,Residual Impact,Residual Risk Score,Status
-RISK-001,Unauthorized access to privileged accounts,Identity and access management,Credential theft,Weak or missing MFA,4,5,20,Mitigate,Enforce MFA and review privileged access,Security Manager,2,5,10,Planned
-RISK-002,Data loss due to ransomware,Endpoints and file servers,Ransomware infection,Insufficient backup protection,4,5,20,Mitigate,Implement tested offline or immutable backups and endpoint protection,IT Security Lead,2,5,10,Planned
-RISK-003,Exposure of sensitive data,Cloud storage,Unauthorized disclosure,Incorrect access permissions,3,5,15,Mitigate,Review permissions and enable monitoring,Cloud Security Lead,2,5,10,Planned
+RISK-004,Phishing and credential compromise,Email systems and user accounts,Phishing attack,Insufficient email filtering and user awareness,4,4,16,Mitigate,Implement email security controls and phishing awareness training
+RISK-005,Loss of critical business data,Backup systems and databases,Accidental deletion or system failure,Inadequate backup testing,3,5,15,Mitigate,Implement regular backups and conduct restoration tests
+RISK-006,Unauthorized changes to production systems,Production servers,Insider threat or unauthorized changes,Weak change management controls,3,4,12,Mitigate,Enforce change approval and monitor privileged activities
+RISK-007,Service disruption due to network failure,Network infrastructure,Hardware failure or network outage,Single points of failure,3,4,12,Mitigate,Implement redundancy and monitor network availability
+RISK-008,Exposure of sensitive information,Employee endpoints and file storage,Data leakage or unauthorized disclosure,Insufficient data protection controls,3,5,15,Mitigate,Implement data classification and access restrictions
