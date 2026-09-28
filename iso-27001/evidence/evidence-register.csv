@@ -1,0 +1,9 @@
+Evidence ID,Control ID,Evidence Name,Description,Evidence Type,Owner,Status,File Reference,Review Date
+EV-001,A.5.15,Access Control Policy,Documented access control requirements,Policy,Security Team,Planned,TBD,TBD
+EV-002,A.5.17,Authentication Policy,Authentication and MFA requirements,Policy,Security Team,Planned,TBD,TBD
+EV-003,A.8.15,Logging and Monitoring Records,Security event logging and monitoring evidence,Log Records,SOC Team,Planned,TBD,TBD
+EV-004,A.5.16,Identity Management Records,User account lifecycle and access management evidence,Access Records,IT Team,Planned,TBD,TBD
+EV-005,A.5.18,Access Review Records,Periodic access review evidence,Review Records,IT Team,Planned,TBD,TBD
+EV-006,A.5.24,Incident Response Plan,Incident response planning documentation,Plan,SOC Team,Planned,TBD,TBD
+EV-007,A.8.7,Malware Protection Records,Endpoint malware protection evidence,Technical Records,IT Team,Planned,TBD,TBD
+EV-008,A.8.8,Vulnerability Management Records,Technical vulnerability assessment evidence,Assessment,SOC Team,Planned,TBD,TBD
