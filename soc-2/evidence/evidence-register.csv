@@ -7,5 +7,5 @@ EV-005,CC6.2,User access requests and approval records,Record,IT Operations,Per 
 EV-006,CC7.1,SIEM alerts and security monitoring logs,Log, SOC Team,Continuous,TBD,Planned
 EV-007,CC7.3,Incident investigation tickets and reports,Record,SOC Team,Per incident,TBD,Planned
 EV-008,CC8.1,Change requests and approval records,Record,IT Operations,Per change,TBD,Planned
-EV-009,CC9.2,Vendor risk assessments,Assessment,Procurement and IT Security,Annual,TBD,Planned
+EV-009,CC9.2,Vendor risk assessments,Assessment,Procurement & IT Security,Annual,TBD,Planned
 EV-010,A1.2,Availability and capacity monitoring reports,Report,IT Operations,Continuous,TBD,Planned
