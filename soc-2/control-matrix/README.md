@@ -2,40 +2,44 @@
 
 ## Purpose
 
-This control matrix documents illustrative security and availability
-control activities mapped to selected SOC 2 Trust Services Criteria.
+This directory contains an illustrative control matrix for the SOC 2 portfolio. It documents sample control activities mapped to selected Trust Services Criteria.
 
-It is intended for portfolio and learning purposes.
+The matrix is intended for learning and portfolio demonstration purposes only.
 
 ## Scope
 
-The matrix includes selected criteria from:
+The matrix includes selected criteria from the following Trust Services Categories:
 
 - Security (Common Criteria)
 - Availability
 
-It is not a complete SOC 2 control framework or an audit-ready control
-set.
+This is a limited sample and does not represent a complete SOC 2 control framework or an audit-ready control set.
 
 ## Matrix Fields
 
+The `control-matrix.csv` file contains the following fields:
+
 | Field | Description |
 |---|---|
-| Control ID | Selected SOC 2 criterion reference |
-| Trust Services Category | Applicable category |
+| Control ID | Reference to the selected SOC 2 criterion |
+| Trust Services Category | Applicable Trust Services Category |
 | Control Objective | Intended control outcome |
-| Sample Control Activity | Example of how the control may operate |
-| Owner | Illustrative responsible role |
+| Sample Control Activity | Illustrative description of how the control may operate |
+| Owner | Example responsible role |
 | Frequency | Planned operating frequency |
 | Evidence | Example evidence that could support the control |
-| Status | Current illustrative status |
+| Status | Current illustrative implementation status |
 
 ## Status
 
-All entries are marked **Planned**. They do not demonstrate that
-controls have been implemented, tested, or independently audited.
+All entries are marked `Planned`. They do not demonstrate that controls have been implemented, tested, or independently audited.
+
+## Evidence
+
+Evidence references should be linked to the relevant control ID in the evidence register.
+
+No actual operating evidence has been provided or independently verified.
 
 ## Disclaimer
 
-This is an educational portfolio example. It is not an audit report,
-attestation, or assurance opinion.
+This is an educational portfolio example. It is not a SOC 2 audit report, attestation, or assurance opinion.
