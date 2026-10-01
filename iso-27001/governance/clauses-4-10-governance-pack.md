@@ -55,7 +55,7 @@ This pack shows how the repository's documents map to the management-system requ
 
 **Climate-change consideration (ISO/IEC 27001:2022/Amd 1:2024):** The illustrative ISMS context review explicitly considers whether climate change is a relevant issue and whether relevant interested parties have climate-related requirements. The current illustrative determination is recorded in the context and interested-parties register.
 
-**Climate-change consideration (ISO/IEC 27001:2022/Amd 1:2024):** The illustrative ISMS context review explicitly considers whether climate change is a relevant issue and whether relevant interested parties have climate-related requirements. The current illustrative determination is recorded in the context and interested-parties register.
+
 
 ## 4. Documented information rules (clause 7.5)
 
