@@ -6,8 +6,8 @@ This repository is intended for learning, practical documentation, and portfolio
 
 ## Project Status
 
-- **ISO/IEC 27001:2022:** Illustrative scope, risk assessment (19 risks), risk treatment plan, a decided 93-control Statement of Applicability (76 applicable, 17 excluded with rationale), control and evidence registers, seven policies, seven procedures and standards, an asset inventory linked to risks, and draft clause 4–10 governance documents with a clause-to-document map. Every control is `Planned`; nothing is approved or implemented, so this is an example ISMS design, not an operating ISMS.
-- **SOC 2:** An illustrative control matrix and evidence register covering all 36 Security (CC1.1–CC9.2) and Availability (A1.1–A1.3) criteria, twelve draft policies, Trust Services Criteria notes, and an unchecked planning checklist. The checklist is not an assessment.
+- **ISO/IEC 27001:2022:** Illustrative scope, risk assessment (19 risks), risk treatment plan, a decided 93-control Statement of Applicability (76 applicable, 17 excluded with rationale), control and evidence registers, seven policies, an asset inventory linked to risks, and draft clause 4–10 governance documents with a clause-to-document map. Every control is `Planned`; nothing is approved or implemented, so this is an example ISMS design, not an operating ISMS.
+- **SOC 2:** An illustrative control matrix and evidence register covering 36 criteria: 33 Security criteria (CC1.1–CC9.2) and 3 Availability criteria (A1.1–A1.3), twelve draft policies, Trust Services Criteria notes, and an unchecked planning checklist. The checklist is not an assessment.
 - **Crosswalk:** 78 illustrative ISO/IEC 27001 to SOC 2 relationships (156 rows, both directions) covering all 36 criteria.
 - **Validation:** `scripts/validate_repo.py` checks IDs, counts, cross-references, and links; it runs in GitHub Actions on every push and pull request.
 
@@ -39,7 +39,6 @@ Security-compliance-frameworks/
 │   ├── evidence/
 │   ├── governance/
 │   ├── policies/
-│   ├── procedures/
 │   ├── risk-assessment/
 │   └── statement-of-applicability/
 ├── soc-2/

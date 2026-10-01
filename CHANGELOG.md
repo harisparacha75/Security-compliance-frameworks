@@ -1,5 +1,11 @@
 # Changelog
 
+## Repository consistency cleanup
+
+- **README:** Updated the project-status summary and repository tree to match the current repository contents; removed the outdated reference to seven ISO procedures and standards.
+- **SOC 2:** Clarified that the current matrix contains 36 criteria: 33 Security criteria and 3 Availability criteria.
+- **References:** Removed stale ISO procedure references from the root README and aligned the current project-status counts with the repository contents.
+
 ## Completeness, consistency, and validation update
 
 - **Statement of Applicability:** decided all 93 Annex A controls (76 applicable, 17 excluded with rationale); none remain pending. Reconciled the control register (76 rows) and evidence register (ISO-EV-001 to ISO-EV-076) with the SoA.
