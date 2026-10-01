@@ -12,7 +12,7 @@ This methodology applies to organizational information assets, systems, networks
 
 The risk assessment process consists of the following steps:
 
-1. Identify information assets and record them in `asset-inventory.csv` (each risk references asset IDs, and each asset lists its linked risks).
+1. Identify information assets and record them in `../asset-inventory.csv` (each risk references asset IDs, and each asset lists its linked risks).
 2. Identify threats and vulnerabilities.
 3. Evaluate the likelihood of each risk.
 4. Assess the potential business impact.

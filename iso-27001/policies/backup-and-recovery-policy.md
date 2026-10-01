@@ -12,7 +12,7 @@ Ensure in-scope information can be restored after deletion, corruption, ransomwa
 
 ## 2. Scope
 
-All in-scope systems and data listed in `asset-inventory.csv`, including production servers (AST-003), cloud file storage (AST-002), identity data (AST-001), logging data (AST-006), and the backup service itself (AST-007).
+All in-scope systems and data listed in `../asset-inventory.csv`, including production servers (AST-003), cloud file storage (AST-002), identity data (AST-001), logging data (AST-006), and the backup service itself (AST-007).
 
 ## 3. Policy requirements
 
@@ -22,7 +22,7 @@ All in-scope systems and data listed in `asset-inventory.csv`, including product
 4. **Protection.** Encrypt backups at rest and in transit (see A.8.24). Backup administration uses accounts separate from production administration, protected by MFA (A.8.2, A.8.5). Immutable or retention-locked copies are kept for at least 30 days.
 5. **Retention.** Daily backups for 35 days, monthly backups for 12 months, and longer only where the records retention schedule (A.5.33) requires it. Expired backups are deleted and media sanitized (A.8.10, A.7.14).
 6. **Monitoring.** Failed or missed backup jobs alert the SOC and are triaged within one business day. A weekly job-success report is reviewed by IT Operations; the illustrative target is at least 98% of scheduled jobs succeeding.
-7. **Restore testing.** Restore a sample of Tier 1 data quarterly, Tier 2 semi-annually, and Tier 3 annually. Measure restore time against the tier RTO and data age against the tier RPO. Failed tests raise a corrective action (see `governance/nonconformity-corrective-action-register.csv`).
+7. **Restore testing.** Restore a sample of Tier 1 data quarterly, Tier 2 semi-annually, and Tier 3 annually. Measure restore time against the tier RTO and data age against the tier RPO. Failed tests raise a corrective action (see `../governance/nonconformity-corrective-action-register.csv`).
 8. **Ransomware resilience.** Restore into an isolated environment and verify that restored data is free of malware before reconnecting it to production.
 9. **Exceptions.** Documented, time-limited (maximum 90 days), approved by the asset owner and IT Security, and tracked until closed.
 

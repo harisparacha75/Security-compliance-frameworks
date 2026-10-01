@@ -34,7 +34,7 @@ This pack shows how the repository's documents map to the management-system requ
 | 8.1 | Operational planning and control | Documented operational requirements and implementation records; [Control register](../control-implementation/control-register.csv) |
 | 8.2 | Risk assessment at planned intervals | Methodology section 8 (annual and after significant change) |
 | 8.3 | Risk treatment implementation | [Treatment plan](../risk-assessment/risk-treatment-plan.md) |
-| 9.1 | Monitoring, measurement, analysis, evaluation | [Objectives register](security-objectives-register.csv); metrics in each procedure |
+| 9.1 | Monitoring, measurement, analysis, evaluation | [Objectives register](security-objectives-register.csv); applicable control and governance records |
 | 9.2 | Internal audit | [Internal audit program](internal-audit-program.md) |
 | 9.3 | Management review | [Management review template](management-review-template.md) |
 | 10.1 | Continual improvement | Management review outputs; [corrective action register](nonconformity-corrective-action-register.csv) |
@@ -53,10 +53,14 @@ This pack shows how the repository's documents map to the management-system requ
 | Legal/Compliance | Legal/Compliance | Legal, contractual, and privacy requirements; authority contact |
 | Vendor Management | Vendor Management | Supplier due diligence, contracts, and reviews |
 
+**Climate-change consideration (ISO/IEC 27001:2022/Amd 1:2024):** The illustrative ISMS context review explicitly considers whether climate change is a relevant issue and whether relevant interested parties have climate-related requirements. The current illustrative determination is recorded in the context and interested-parties register.
+
+**Climate-change consideration (ISO/IEC 27001:2022/Amd 1:2024):** The illustrative ISMS context review explicitly considers whether climate change is a relevant issue and whether relevant interested parties have climate-related requirements. The current illustrative determination is recorded in the context and interested-parties register.
+
 ## 4. Documented information rules (clause 7.5)
 
 - **Document IDs** are unique across the repository: `ISO-POL-###` policies, `ISO-STD-###` standards, `ISO-PROC-###` procedures, `ISO-PLAN-###` plans, `ISO-GOV-###` governance documents, and `ISMS-SCOPE-001` for the scope. SOC 2 documents use `SOC2-POL-###` and `SOC2-SYS-###`.
-- Each controlled document records version, status, owner, review cycle, and approval. Drafts show `Approver: TBD`.
+- Controlled documents use assigned Document IDs and defined metadata appropriate to the document type; review and approval information is recorded where applicable. Drafts identify the approver as `TBD` where an approval field is used.
 - Changes are made by pull request, reviewed by the document owner, and recorded in the [CHANGELOG](../../CHANGELOG.md).
 - Registers use fixed vocabularies, and `scripts/validate_repo.py` checks ID uniqueness, register cross-references, and counts on every change.
 
