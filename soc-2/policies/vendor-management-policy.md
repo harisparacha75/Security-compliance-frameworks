@@ -27,7 +27,7 @@ The policy owner maintains this policy, assigns responsibilities, and reviews it
 ## 4. Related criteria and documents
 
 - SOC 2 criteria: CC9.2, CC2.3
-- Related: ISO-STD-002 Supplier Security Standard (ISO folder)
+- Related: ISO 27001 control register (A.5.19–A.5.22)
 
 ## 5. Approval
 

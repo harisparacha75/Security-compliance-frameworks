@@ -5,6 +5,7 @@
 - **README:** Updated the project-status summary and repository tree to match the current repository contents; removed the outdated reference to seven ISO procedures and standards.
 - **SOC 2:** Clarified that the current matrix contains 36 criteria: 33 Security criteria and 3 Availability criteria.
 - **References:** Removed stale ISO procedure references from the root README and aligned the current project-status counts with the repository contents.
+- **ISO procedure references:** Removed stale references to the deleted `iso-27001/procedures/` directory and nonexistent `ISO-PROC`, `ISO-STD`, and `ISO-PLAN` document IDs; current planned procedure evidence is marked `TBD` where no separate file exists.
 
 ## Completeness, consistency, and validation update
 

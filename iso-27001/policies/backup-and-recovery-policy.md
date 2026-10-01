@@ -8,7 +8,7 @@
 
 ## 1. Purpose
 
-Ensure in-scope information can be restored after deletion, corruption, ransomware, or system failure within the recovery objectives set in the Business Continuity and Disaster Recovery Plan (ISO-PLAN-001).
+Ensure in-scope information can be restored after deletion, corruption, ransomware, or system failure within the recovery objectives defined for the illustrative continuity and recovery scenario.
 
 ## 2. Scope
 
@@ -44,7 +44,7 @@ Retain backup job reports, restore test results, exception records, and correcti
 - Annex A: A.8.13, A.8.14, A.8.10, A.8.24, A.5.30
 - SOC 2: A1.2, A1.3
 - Risks: RISK-002, RISK-005, RISK-013
-- Related documents: Business Continuity and Disaster Recovery Plan (ISO-PLAN-001)
+- Related documents: Illustrative continuity and recovery requirements
 
 ## Approval
 

@@ -27,7 +27,7 @@ The policy owner maintains this policy, assigns responsibilities, and reviews it
 ## 4. Related criteria and documents
 
 - SOC 2 criteria: CC6.1, CC6.7
-- Related: ISO-STD-001 Information Classification Standard (ISO folder)
+- Related: ISO 27001 control register and Statement of Applicability (A.8.24)
 
 ## 5. Approval
 

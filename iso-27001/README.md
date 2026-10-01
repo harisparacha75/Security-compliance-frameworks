@@ -17,7 +17,6 @@ The examples cover risk assessment, risk treatment, control applicability, and e
 | `control-implementation/` | Control register for the 76 applicable controls |
 | `evidence/` | Evidence register with planned evidence references for each applicable control |
 | `policies/` | Seven policies, including the backup and recovery policy |
-| `procedures/` | Continuity plan, identity lifecycle, vulnerability, malware, classification, and supplier documents |
 | `governance/` | Clause 4–10 governance pack with clause-to-document map, registers, and plans |
 
 ## Key Documents
@@ -39,4 +38,4 @@ This repository is a demonstration portfolio. It does not represent an operation
 
 ## Draft materials
 
-Policies, procedures, standards, and governance documents are drafts with example values (for example recovery objectives and remediation targets) and `Approver: TBD`. They do not demonstrate an operating ISMS, a completed risk assessment, or compliance.
+Policies, governance documents, and supporting templates are drafts with example values (for example recovery objectives and remediation targets) and `Approver: TBD`. They do not demonstrate an operating ISMS, a completed risk assessment, or compliance.

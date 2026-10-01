@@ -27,7 +27,7 @@ The policy owner maintains this policy, assigns responsibilities, and reviews it
 ## 4. Related criteria and documents
 
 - SOC 2 criteria: CC9.1, CC7.5, A1.2, A1.3
-- Related: ISO-PLAN-001 and ISO-POL-007 (ISO folder)
+- Related: [ISO 27001 Backup and Recovery Policy](../../iso-27001/policies/backup-and-recovery-policy.md)
 
 ## 5. Approval
 
