@@ -44,7 +44,7 @@ Retain backup job reports, restore test results, exception records, and correcti
 - Annex A: A.8.13, A.8.14, A.8.10, A.8.24, A.5.30
 - SOC 2: A1.2, A1.3
 - Risks: RISK-002, RISK-005, RISK-013
-- Related documents: [Business Continuity and Disaster Recovery Plan](../procedures/business-continuity-and-disaster-recovery-plan.md)
+- Related documents: Business Continuity and Disaster Recovery Plan (ISO-PLAN-001)
 
 ## Approval
 

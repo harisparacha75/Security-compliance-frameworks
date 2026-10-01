@@ -31,7 +31,7 @@ This pack shows how the repository's documents map to the management-system requ
 | 7.3 | Awareness | [Competence and awareness plan](competence-and-awareness-plan.md); control A.6.3 |
 | 7.4 | Communication | [Communication plan](communication-plan.md) |
 | 7.5 | Documented information | Section 4 below |
-| 8.1 | Operational planning and control | [Procedures](../procedures/); [Control register](../control-implementation/control-register.csv) |
+| 8.1 | Operational planning and control | Procedure and implementation documentation; [Control register](../control-implementation/control-register.csv) |
 | 8.2 | Risk assessment at planned intervals | Methodology section 8 (annual and after significant change) |
 | 8.3 | Risk treatment implementation | [Treatment plan](../risk-assessment/risk-treatment-plan.md) |
 | 9.1 | Monitoring, measurement, analysis, evaluation | [Objectives register](security-objectives-register.csv); metrics in each procedure |
