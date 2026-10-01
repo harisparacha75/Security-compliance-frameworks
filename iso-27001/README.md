@@ -8,14 +8,17 @@ The examples cover risk assessment, risk treatment, control applicability, and e
 
 ## Repository Structure
 
-| Directory | Description |
+| Path | Description |
 |---|---|
 | `isms-scope.md` | Fictional portfolio scope statement |
-| `risk-assessment/` | Risk assessment methodology, risk register, and risk treatment plan |
-| `statement-of-applicability/` | Sample Statement of Applicability (SoA) and control applicability rationale |
-| `evidence/` | Evidence register with planned evidence references |
-| `policies/` | Sample information security policies |
-| `control-implementation/` | Control design and implementation notes |
+| `asset-inventory.csv` | 15 assets (systems and information) linked to risks |
+| `risk-assessment/` | Risk assessment methodology, risk register (19 risks), and risk treatment plan |
+| `statement-of-applicability/` | Statement of Applicability for all 93 Annex A controls |
+| `control-implementation/` | Control register for the 76 applicable controls |
+| `evidence/` | Evidence register with planned evidence references for each applicable control |
+| `policies/` | Seven policies, including the backup and recovery policy |
+| `procedures/` | Continuity plan, identity lifecycle, vulnerability, malware, classification, and supplier documents |
+| `governance/` | Clause 4–10 governance pack with clause-to-document map, registers, and plans |
 
 ## Key Documents
 
@@ -24,21 +27,16 @@ The examples cover risk assessment, risk treatment, control applicability, and e
 - [Risk Treatment Plan](risk-assessment/risk-treatment-plan.md)
 - [Statement of Applicability](statement-of-applicability/soa-register.csv)
 - [Evidence Register](evidence/evidence-register.csv)
+- [Governance pack and clause map](governance/clauses-4-10-governance-pack.md)
 
 ## Current Status
 
-This is a work in progress. The registers contain illustrative entries. The SoA register lists all 93 Annex A controls, but only 32 have illustrative applicability decisions (22 applicable, 10 excluded with sample rationale); 61 remain `Pending assessment`. It is not a completed assessment. Evidence collection and control implementation have not been verified.
+The SoA lists all 93 Annex A controls and records a decision for each: 76 applicable and 17 excluded with a sample rationale. Every applicable control is `Planned`. Decisions, risk ratings, and residual values are illustrative; they have not been approved by management, and evidence collection and control implementation have not been verified.
 
 ## Disclaimer
 
 This repository is a demonstration portfolio. It does not represent an operational or certified ISO 27001 Information Security Management System, nor does it claim compliance with ISO/IEC 27001:2022.
 
+## Draft materials
 
-## Additional draft materials
-
-- `isms-scope.md` — illustrative scope and boundaries.
-- `asset-inventory.csv` — fictional starter inventory requiring validation.
-- `governance/` — context/interested-party, objectives, competence, communication, internal audit, management review, and corrective-action templates for clauses 4–10.
-- `procedures/` — classification, backup/recovery, vulnerability, malware, identity lifecycle, supplier security, and continuity templates.
-
-These documents are drafts and do not demonstrate an operating ISMS, completed risk assessment, or compliance.
+Policies, procedures, standards, and governance documents are drafts with example values (for example recovery objectives and remediation targets) and `Approver: TBD`. They do not demonstrate an operating ISMS, a completed risk assessment, or compliance.

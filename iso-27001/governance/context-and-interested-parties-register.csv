@@ -1,9 +1,13 @@
 Item ID,Type,Issue or Requirement,Relevance to ISMS,Owner,Review Frequency,Status,Evidence Reference
-CTX-001,Internal issue,Roles and resourcing for information security,Influences governance and control operation,Management,Annual,Pending assessment,TBD
-CTX-002,Internal issue,Technology and asset changes,Influences risk and control scope,IT Security,Quarterly,Pending assessment,TBD
-CTX-003,External issue,Threat landscape and vulnerabilities,Influences risk assessment and treatment,IT Security,Quarterly,Pending assessment,TBD
-CTX-004,External issue,Cloud and supplier dependencies,Influences service security and continuity,Vendor Management,Annual,Pending assessment,TBD
-IP-001,Interested party,Customers,Security and service commitments,Service Owner,Annual,Pending assessment,TBD
-IP-002,Interested party,Employees and contractors,Security responsibilities and awareness,HR,Annual,Pending assessment,TBD
-IP-003,Interested party,Regulators and contractual parties,Applicable legal and contractual requirements,Legal/Compliance,Annual,Pending assessment,TBD
-IP-004,Interested party,Cloud and service providers,Shared responsibilities and supplier assurance,Vendor Management,Annual,Pending assessment,TBD
+CTX-001,Internal issue,Small security team with shared responsibilities,"Drives segregation-of-duties compensating controls and competence planning (A.5.3, clause 7.2)",Management,Annual,Draft — illustrative,iso-27001/governance/competence-and-awareness-plan.md
+CTX-002,Internal issue,Technology and asset changes,"Influences risk assessment, asset inventory, and scope review",IT Security,Quarterly,Draft — illustrative,iso-27001/asset-inventory.csv
+CTX-003,External issue,"Threat landscape: ransomware, phishing, and exploited vulnerabilities","Influences risk assessment and treatment priorities (RISK-001, RISK-002, RISK-004, RISK-010)",IT Security,Quarterly,Draft — illustrative,iso-27001/risk-assessment/risk-register.csv
+CTX-004,External issue,Cloud and supplier dependencies,"Influences service security and continuity (RISK-009, RISK-013)",Vendor Management,Annual,Draft — illustrative,iso-27001/procedures/supplier-security-standard.md
+CTX-005,External issue,Supplier-managed facility and hosting,"Physical controls are outside direct control; Annex A physical controls A.7.1–A.7.6, A.7.11, and A.7.12 are excluded (RISK-017)",Vendor Management,Annual,Draft — illustrative,iso-27001/isms-scope.md
+CTX-006,External issue,"Legal, regulatory, and privacy obligations for customer data","Influences records retention, privacy controls, and incident notification (RISK-015)",Legal/Compliance,Annual,Draft — illustrative,iso-27001/risk-assessment/risk-register.csv
+IP-001,Interested party,Customers,Expect confidentiality and availability of support services; may impose contractual security requirements,Service Owner,Annual,Draft — illustrative,iso-27001/statement-of-applicability/soa-register.csv
+IP-002,Interested party,Employees and contractors,"Need clear security responsibilities, training, and a way to report events",HR,Annual,Draft — illustrative,iso-27001/governance/competence-and-awareness-plan.md
+IP-003,Interested party,Regulators and contractual parties,Applicable legal and contractual requirements (A.5.31),Legal/Compliance,Annual,Draft — illustrative,iso-27001/risk-assessment/risk-register.csv
+IP-004,Interested party,Cloud and service providers,Shared responsibilities and supplier assurance,Vendor Management,Annual,Draft — illustrative,iso-27001/procedures/supplier-security-standard.md
+IP-005,Interested party,Management,"Expects risk-based decisions, objectives, and resources for the ISMS",Management,Annual,Draft — illustrative,iso-27001/governance/management-review-template.md
+IP-006,Interested party,Certification body and auditors (future),"Expect a defined scope, SoA, evidence, internal audit, and management review",IT Security,Annual,Draft — illustrative,iso-27001/governance/internal-audit-program.md

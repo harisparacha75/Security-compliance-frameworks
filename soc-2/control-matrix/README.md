@@ -8,12 +8,7 @@ The matrix is intended for learning and portfolio demonstration purposes only.
 
 ## Scope
 
-The matrix includes selected criteria from the following Trust Services Categories. It includes examples under CC4, CC5, and Availability, but is not a complete mapping of all criteria:
-
-- Security (Common Criteria)
-- Availability
-
-This is a limited sample and does not represent a complete SOC 2 control framework or an audit-ready control set.
+The matrix has one row for each of the 36 criteria in the Security (Common Criteria, CC1.1–CC9.2) and Availability (A1.1–A1.3) categories, listed in criterion order. Confidentiality, Processing Integrity, and Privacy are not included. Control activities are illustrative; they are not an audit-ready control set.
 
 ## Matrix Fields
 

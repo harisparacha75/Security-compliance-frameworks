@@ -27,3 +27,51 @@ ISO-EV-025,A.5.21,ICT Supply Chain Review Records,ICT supply chain and dependenc
 ISO-EV-026,A.5.22,Supplier Service Review Records,"Supplier performance, assurance, and change reviews",Review Records,Vendor Management,Planned,TBD,TBD
 ISO-EV-027,A.8.12,Data Leakage Prevention Records,"Data transfer restrictions, monitoring, and leakage response evidence",Technical Records,IT Security,Planned,TBD,TBD
 ISO-EV-028,A.8.17,Clock Synchronization Records,Time synchronization configuration and monitoring records,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-029,A.5.2,Security Roles and Responsibilities Matrix,"ISMS role definitions, appointments, and responsibility assignments",Document,Management,Planned,TBD,TBD
+ISO-EV-030,A.5.3,Segregation of Duties Matrix and Exception Records,"Conflicting-duty matrix, compensating controls, and approved exceptions",Assessment Records,IT Security,Planned,TBD,TBD
+ISO-EV-031,A.5.4,Management Direction and Policy Adherence Reviews,Management communications and adherence review records,Review Records,Management,Planned,TBD,TBD
+ISO-EV-032,A.5.5,Authority Contact List and Engagement Records,Authority contact list and records of regulatory or law-enforcement engagement,Record,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-033,A.5.6,Security Community and Advisory Records,Subscription list and advisories reviewed,Record,IT Security,Planned,TBD,TBD
+ISO-EV-034,A.5.7,Threat Intelligence Review Records,"Intelligence sources, review notes, and resulting detection or risk updates",Review Records,SOC,Planned,TBD,TBD
+ISO-EV-035,A.5.8,Project Security Review Records,Security requirements and risk review records for IT projects,Review Records,IT Security,Planned,TBD,TBD
+ISO-EV-036,A.5.9,Asset Inventory and Review Records,Asset inventory (iso-27001/asset-inventory.csv) and ownership review records,Inventory,IT Operations,Planned,TBD,TBD
+ISO-EV-037,A.5.11,Asset Return Records,"Offboarding checklists showing returned devices, tokens, and media",Record,HR,Planned,TBD,TBD
+ISO-EV-038,A.5.13,Information Labelling Records,Labelling configuration and sampling of labelled information,Technical Records,IT Security,Planned,TBD,TBD
+ISO-EV-039,A.5.14,Information Transfer Rules and Review Records,"Transfer rules, sharing configuration, and review records",Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-040,A.5.25,Event Triage and Classification Records,Event triage tickets and classification criteria,Incident Records,SOC,Planned,TBD,TBD
+ISO-EV-041,A.5.27,Post-Incident Review Records,Post-incident reviews and resulting improvement actions,Review Records,SOC,Planned,TBD,TBD
+ISO-EV-042,A.5.28,Evidence Handling Records,Evidence collection and chain-of-custody records,Incident Records,SOC,Planned,TBD,TBD
+ISO-EV-043,A.5.29,Disruption Security Provisions and Exercise Records,Security provisions in the continuity plan and exercise results,Plan,IT Operations,Planned,TBD,TBD
+ISO-EV-044,A.5.30,ICT Readiness Test Records,"Recovery objectives, readiness tests, and results",Test Records,IT Operations,Planned,TBD,TBD
+ISO-EV-045,A.5.31,Legal and Contractual Requirements Register,Register of applicable requirements with review records,Register,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-046,A.5.32,Software Licence and IP Records,Licence inventory and compliance reviews,Record,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-047,A.5.33,Records Retention Schedule,Retention schedule and protection review records,Document,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-048,A.5.34,Privacy and Personal Information Protection Records,Personal information inventory and privacy requirement reviews,Record,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-049,A.5.35,Independent Review Reports,Internal audit reports and independent review results,Audit Reports,Management,Planned,TBD,TBD
+ISO-EV-050,A.5.36,Policy Compliance Review Records,Compliance review results and follow-up actions,Review Records,IT Security,Planned,TBD,TBD
+ISO-EV-051,A.5.37,Operating Procedure Library,Procedures library (iso-27001/procedures) and review records,Document,IT Operations,Planned,TBD,TBD
+ISO-EV-052,A.6.1,Pre-Employment Screening Records,Screening completion records by role,Record,HR,Planned,TBD,TBD
+ISO-EV-053,A.6.2,Employment Terms Security Clauses,Contract templates with security responsibility clauses,Document,HR,Planned,TBD,TBD
+ISO-EV-054,A.6.4,Disciplinary Process Documentation,Documented process and handled-case records,Document,HR,Planned,TBD,TBD
+ISO-EV-055,A.6.5,Termination and Role-Change Security Records,Exit checklists and post-employment obligation reminders,Record,HR,Planned,TBD,TBD
+ISO-EV-056,A.6.6,NDA Register,Register of signed confidentiality agreements,Record,Legal/Compliance,Planned,TBD,TBD
+ISO-EV-057,A.6.7,Remote Working Security Records,Remote working rules and endpoint configuration evidence,Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-058,A.6.8,Event Reporting Channel Records,Reporting channel description and log of reports received,Record,SOC,Planned,TBD,TBD
+ISO-EV-059,A.7.7,Clear Desk and Screen Records,Screen-lock configuration and spot-check results,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-060,A.7.8,Equipment Siting Review Records,Review of placement and protection of in-scope equipment,Review Record,IT Operations,Planned,TBD,TBD
+ISO-EV-061,A.7.9,Off-Premises Asset Protection Records,Off-premises asset rules and endpoint encryption evidence,Policy and Records,IT Operations,Planned,TBD,TBD
+ISO-EV-062,A.7.10,Storage Media Handling Records,"Removable media rules, inventory, and handling records",Record,IT Operations,Planned,TBD,TBD
+ISO-EV-063,A.7.13,Equipment Maintenance Records,Maintenance schedules and completion records,Record,IT Operations,Planned,TBD,TBD
+ISO-EV-064,A.7.14,Sanitization and Disposal Records,Sanitization certificates and disposal records,Record,IT Operations,Planned,TBD,TBD
+ISO-EV-065,A.8.1,Endpoint Configuration and Encryption Records,Endpoint baselines and compliance reports,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-066,A.8.3,Information Access Restriction Records,Permission reviews for in-scope repositories,Access Records,IT Security,Planned,TBD,TBD
+ISO-EV-067,A.8.6,Capacity Monitoring Reports,Capacity and utilization reports and forecasts,Report,IT Operations,Planned,TBD,TBD
+ISO-EV-068,A.8.9,Configuration Baseline and Drift Review Records,Baselines and configuration drift reviews,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-069,A.8.10,Information Deletion Records,Deletion schedules and deletion logs,Record,IT Operations,Planned,TBD,TBD
+ISO-EV-070,A.8.18,Privileged Utility Control Records,Utility inventory and access restriction records,Technical Records,IT Security,Planned,TBD,TBD
+ISO-EV-071,A.8.19,Software Installation Control Records,Approved software lists and installation approvals,Technical Records,IT Operations,Planned,TBD,TBD
+ISO-EV-072,A.8.21,Network Service Security Records,Network service requirements and provider reviews,Assessment Records,IT Operations,Planned,TBD,TBD
+ISO-EV-073,A.8.23,Web Filtering Configuration Records,Filtering policy and blocked-category reports,Technical Records,IT Security,Planned,TBD,TBD
+ISO-EV-074,A.8.24,Cryptography and Key Management Records,"Cryptography standard, key inventory, and rotation records",Policy and Records,IT Security,Planned,TBD,TBD
+ISO-EV-075,A.8.33,Test Information Handling Records,Test data rules and approvals for change testing,Record,IT Operations,Planned,TBD,TBD
+ISO-EV-076,A.8.34,Audit Testing Authorization Records,"Test plans, authorizations, and safeguards for production systems",Record,IT Security,Planned,TBD,TBD

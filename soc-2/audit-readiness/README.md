@@ -12,7 +12,7 @@
 
 ## Risk and control design
 - [ ] Complete system risk assessment and risk treatment.
-- [ ] Map selected criteria to controls, owners, frequency, and evidence.
+- [ ] Map criteria to controls, owners, frequency, and evidence.
 - [ ] Review control design and identify design gaps.
 - [ ] Approve security, access, incident response, change, vendor, backup, and recovery policies.
 - [ ] Define exception handling and risk acceptance.

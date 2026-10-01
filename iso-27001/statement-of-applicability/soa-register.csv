@@ -1,87 +1,87 @@
 Control ID,Control Name,Applicable,Justification,Implementation Status,Evidence Reference
 A.5.1,Policies for information security,Yes,"Example: Applicable because documented, approved policies set direction for the ISMS.",Planned,ISO-EV-017
-A.5.2,Information security roles and responsibilities,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.3,Segregation of duties,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.4,Management responsibilities,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.5,Contact with authorities,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.6,Contact with special interest groups,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.7,Threat intelligence,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.8,Information security in project management,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.9,Inventory of information and other associated assets,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.2,Information security roles and responsibilities,Yes,Example: Applicable because accountable security roles are needed to operate the ISMS (clause 5.3).,Planned,ISO-EV-029
+A.5.3,Segregation of duties,Yes,"Example: Applicable because approval and execution of privileged changes must be separated to limit misuse (RISK-006, RISK-014).",Planned,ISO-EV-030
+A.5.4,Management responsibilities,Yes,Example: Applicable because management must direct and enforce security expectations (clause 5.1).,Planned,ISO-EV-031
+A.5.5,Contact with authorities,Yes,Example: Applicable because incidents and legal obligations may require notifying authorities (RISK-015).,Planned,ISO-EV-032
+A.5.6,Contact with special interest groups,Yes,Example: Applicable because vendor and community advisories inform vulnerability and threat response (RISK-010).,Planned,ISO-EV-033
+A.5.7,Threat intelligence,Yes,"Example: Applicable because threat information supports detection and risk reassessment (RISK-010, RISK-011).",Planned,ISO-EV-034
+A.5.8,Information security in project management,Yes,Example: Applicable because IT and infrastructure projects can introduce new risks (RISK-006).,Planned,ISO-EV-035
+A.5.9,Inventory of information and other associated assets,Yes,Example: Applicable because risk assessment and control scoping depend on knowing in-scope assets and owners.,Planned,ISO-EV-036
 A.5.10,Acceptable use of information and other associated assets,Yes,Example: Applicable because users need defined rules for handling in-scope information and assets.,Planned,ISO-EV-018
-A.5.11,Return of assets,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.11,Return of assets,Yes,Example: Applicable because departing personnel hold endpoints and credentials (RISK-014).,Planned,ISO-EV-037
 A.5.12,Classification of information,Yes,Example: Applicable because information classification guides handling and protection.,Planned,ISO-EV-015
-A.5.13,Labelling of information,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.14,Information transfer,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.13,Labelling of information,Yes,Example: Applicable because consistent labelling supports handling rules (RISK-008).,Planned,ISO-EV-038
+A.5.14,Information transfer,Yes,"Example: Applicable because information is exchanged with customers and suppliers (RISK-012, RISK-018).",Planned,ISO-EV-039
 A.5.15,Access control,Yes,Example: Applicable because access control is needed to protect in-scope information and systems.,Planned,ISO-EV-001
 A.5.16,Identity management,Yes,Example: Applicable because identities must be managed throughout their lifecycle.,Planned,ISO-EV-004
 A.5.17,Authentication information,Yes,Example: Applicable because authentication information requires protection.,Planned,ISO-EV-002
 A.5.18,Access rights,Yes,"Example: Applicable because access rights must be granted, reviewed, and revoked.",Planned,ISO-EV-005
-A.5.19,Information security in supplier relationships,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.20,Addressing information security within supplier agreements,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.21,Managing information security in the ICT supply chain,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.22,"Monitoring, review and change management of supplier services",Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.19,Information security in supplier relationships,Yes,"Example: Applicable because cloud and managed-service suppliers hold or process in-scope information (RISK-009, RISK-017).",Planned,ISO-EV-023
+A.5.20,Addressing information security within supplier agreements,Yes,Example: Applicable because supplier security obligations must be set contractually (RISK-009).,Planned,ISO-EV-024
+A.5.21,Managing information security in the ICT supply chain,Yes,Example: Applicable because ICT supply chain dependencies can propagate compromise (RISK-009).,Planned,ISO-EV-025
+A.5.22,"Monitoring, review and change management of supplier services",Yes,"Example: Applicable because supplier service changes and assurance evidence need periodic review, including for the supplier-managed facility (RISK-009, RISK-017).",Planned,ISO-EV-026
 A.5.23,Information security for use of cloud services,Yes,Example: Applicable because in-scope information is held in cloud storage (RISK-003).,Planned,ISO-EV-020
 A.5.24,Information security incident management planning and preparation,Yes,Example: Applicable because incident response planning is needed for in-scope services.,Planned,ISO-EV-006
-A.5.25,Assessment and decision on information security events,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.25,Assessment and decision on information security events,Yes,Example: Applicable because events must be triaged consistently to decide whether they are incidents (RISK-019).,Planned,ISO-EV-040
 A.5.26,Response to information security incidents,Yes,Example: Applicable because security incidents require defined response procedures.,Planned,ISO-EV-009
-A.5.27,Learning from information security incidents,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.28,Collection of evidence,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.29,Information security during disruption,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.30,ICT readiness for business continuity,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.31,"Legal, statutory, regulatory and contractual requirements",Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.32,Intellectual property rights,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.33,Protection of records,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.34,Privacy and protection of PII,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.35,Independent review of information security,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.36,"Compliance with policies, rules and standards for information security",Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.5.37,Documented operating procedures,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.1,Screening,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.2,Terms and conditions of employment,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.5.27,Learning from information security incidents,Yes,Example: Applicable because lessons learned reduce repeat incidents (RISK-019).,Planned,ISO-EV-041
+A.5.28,Collection of evidence,Yes,Example: Applicable because investigations may require preserved evidence (RISK-019).,Planned,ISO-EV-042
+A.5.29,Information security during disruption,Yes,"Example: Applicable because disruption can weaken controls (RISK-013, RISK-017).",Planned,ISO-EV-043
+A.5.30,ICT readiness for business continuity,Yes,Example: Applicable because services depend on ICT recovery within defined objectives (RISK-013).,Planned,ISO-EV-044
+A.5.31,"Legal, statutory, regulatory and contractual requirements",Yes,Example: Applicable because the organization has legal and contractual obligations to customers (RISK-015).,Planned,ISO-EV-045
+A.5.32,Intellectual property rights,Yes,Example: Applicable because licensed software and third-party content are used in operations.,Planned,ISO-EV-046
+A.5.33,Protection of records,Yes,"Example: Applicable because business, customer, and security records must be retained and protected (RISK-015).",Planned,ISO-EV-047
+A.5.34,Privacy and protection of PII,Yes,Example: Applicable because customer-support services process personal information about customers (RISK-015).,Planned,ISO-EV-048
+A.5.35,Independent review of information security,Yes,Example: Applicable because independent review of the ISMS is a clause 9.2 requirement.,Planned,ISO-EV-049
+A.5.36,"Compliance with policies, rules and standards for information security",Yes,Example: Applicable because adherence to policies must be checked and deviations corrected (RISK-015).,Planned,ISO-EV-050
+A.5.37,Documented operating procedures,Yes,Example: Applicable because consistent operation of security controls depends on documented procedures.,Planned,ISO-EV-051
+A.6.1,Screening,Yes,Example: Applicable because personnel with privileged access or customer data access present insider risk (RISK-014).,Planned,ISO-EV-052
+A.6.2,Terms and conditions of employment,Yes,Example: Applicable because personnel must be contractually bound to security responsibilities (RISK-014).,Planned,ISO-EV-053
 A.6.3,"Information security awareness, education and training",Yes,Example: Applicable because personnel awareness helps address phishing and user-related risks.,Planned,ISO-EV-016
-A.6.4,Disciplinary process,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.5,Responsibilities after termination or change of employment,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.6,Confidentiality or non-disclosure agreements,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.7,Remote working,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.6.8,Information security event reporting,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.1,Physical security perimeters,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.2,Physical entry,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.3,"Securing offices, rooms and facilities",Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.4,Physical security monitoring,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.5,Protecting against physical and environmental threats,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.6,Working in secure areas,Pending assessment,"Pending assessment: facility arrangements, in-scope equipment handling, and supplier assurance must be evaluated before applicability is decided.",Not assessed,TBD
-A.7.7,Clear desk and clear screen,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.8,Equipment siting and protection,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.9,Security of assets off-premises,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.10,Storage media,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.11,Supporting utilities,Pending assessment,"Pending assessment: facility arrangements, in-scope equipment handling, and supplier assurance must be evaluated before applicability is decided.",Not assessed,TBD
-A.7.12,Cabling security,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.13,Equipment maintenance,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.7.14,Secure disposal or re-use of equipment,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.1,User endpoint devices,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.6.4,Disciplinary process,Yes,Example: Applicable because accountability for policy violations deters misuse (RISK-014).,Planned,ISO-EV-054
+A.6.5,Responsibilities after termination or change of employment,Yes,Example: Applicable because confidentiality duties and access removal continue after role changes (RISK-014).,Planned,ISO-EV-055
+A.6.6,Confidentiality or non-disclosure agreements,Yes,"Example: Applicable because personnel and suppliers handle confidential information (RISK-009, RISK-014).",Planned,ISO-EV-056
+A.6.7,Remote working,Yes,"Example: Applicable because the endpoint fleet includes remote use (AST-004, RISK-016).",Planned,ISO-EV-057
+A.6.8,Information security event reporting,Yes,"Example: Applicable because early reporting of phishing and suspicious events supports detection (RISK-004, RISK-019).",Planned,ISO-EV-058
+A.7.1,Physical security perimeters,No,"Example exclusion: building perimeters are provided by the facility provider and treated as a supplier-managed dependency in the ISMS scope; reliance is addressed through supplier assurance (A.5.19, A.5.22; RISK-017). Reassess if the organization takes direct control of facilities.",Not applicable (illustrative),N/A — rationale documented
+A.7.2,Physical entry,No,Example exclusion: building entry control is provided by the facility provider (supplier-managed dependency); addressed through supplier assurance (A.5.22; RISK-017). Reassess if the organization takes direct control of facilities.,Not applicable (illustrative),N/A — rationale documented
+A.7.3,"Securing offices, rooms and facilities",No,"Example exclusion: securing of offices, rooms, and facilities is performed by the facility provider (supplier-managed dependency); addressed through supplier assurance (A.5.22; RISK-017). Reassess if the organization takes direct control of facilities.",Not applicable (illustrative),N/A — rationale documented
+A.7.4,Physical security monitoring,No,Example exclusion: physical security monitoring (for example CCTV and intruder alarms) is operated by the facility provider; assurance reports are reviewed under A.5.22 (RISK-017). Reassess if monitoring is brought in-house.,Not applicable (illustrative),N/A — rationale documented
+A.7.5,Protecting against physical and environmental threats,No,"Example exclusion: protection against fire, flood, and other physical or environmental threats is a facility-provider responsibility; continuity impact is covered by A.5.29 and A.5.30 (RISK-013, RISK-017). Reassess if the organization operates its own facility.",Not applicable (illustrative),N/A — rationale documented
+A.7.6,Working in secure areas,No,Example exclusion: the fictional scope has no dedicated secure areas operated by the organization; reassess if a secure operations room or equipment area is established.,Not applicable (illustrative),N/A — rationale documented
+A.7.7,Clear desk and clear screen,Yes,Example: Applicable because in-scope information is handled on endpoints in office and remote settings (RISK-008).,Planned,ISO-EV-059
+A.7.8,Equipment siting and protection,Yes,Example: Applicable because in-scope network and endpoint equipment must be sited and protected (RISK-007).,Planned,ISO-EV-060
+A.7.9,Security of assets off-premises,Yes,Example: Applicable because laptops and media leave the premises (RISK-016).,Planned,ISO-EV-061
+A.7.10,Storage media,Yes,Example: Applicable because removable media can carry in-scope information out of the organization (RISK-016).,Planned,ISO-EV-062
+A.7.11,Supporting utilities,No,"Example exclusion: power, cooling, and other supporting utilities are supplied by the facility provider; availability impact is handled through redundancy (A.8.14) and continuity planning (A.5.30). Reassess if the organization operates its own facility or equipment room.",Not applicable (illustrative),N/A — rationale documented
+A.7.12,Cabling security,No,Example exclusion: building power and telecommunications cabling is provider-managed; network equipment protection is covered by A.7.8 and A.8.20. Reassess if the organization installs its own cabling.,Not applicable (illustrative),N/A — rationale documented
+A.7.13,Equipment maintenance,Yes,Example: Applicable because unmaintained equipment fails or exposes data (RISK-007).,Planned,ISO-EV-063
+A.7.14,Secure disposal or re-use of equipment,Yes,Example: Applicable because retired devices may still hold in-scope data (RISK-016).,Planned,ISO-EV-064
+A.8.1,User endpoint devices,Yes,"Example: Applicable because the endpoint fleet is in scope and a target for compromise and loss (RISK-004, RISK-016).",Planned,ISO-EV-065
 A.8.2,Privileged access rights,Yes,Example: Applicable because compromise of privileged accounts is a top-rated risk (RISK-001).,Planned,ISO-EV-019
-A.8.3,Information access restriction,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.4,Access to source code,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.3,Information access restriction,Yes,Example: Applicable because incorrect permissions drive exposure of sensitive data (RISK-003).,Planned,ISO-EV-066
+A.8.4,Access to source code,No,Example exclusion: source code is not developed or held within the fictional scope because product engineering is out of scope; reassess if software development is added to the scope.,Not applicable (illustrative),N/A — rationale documented
 A.8.5,Secure authentication,Yes,Example: Applicable because secure authentication and MFA reduce account compromise risk.,Planned,ISO-EV-011
-A.8.6,Capacity management,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.6,Capacity management,Yes,"Example: Applicable because capacity exhaustion can disrupt services (RISK-007, RISK-011).",Planned,ISO-EV-067
 A.8.7,Protection against malware,Yes,Example: Applicable because malware may affect in-scope endpoints and servers.,Planned,ISO-EV-007
 A.8.8,Management of technical vulnerabilities,Yes,Example: Applicable because technical vulnerabilities may affect in-scope systems.,Planned,ISO-EV-008
-A.8.9,Configuration management,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.10,Information deletion,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.9,Configuration management,Yes,Example: Applicable because insecure or drifting configuration drives exploitable vulnerabilities (RISK-010).,Planned,ISO-EV-068
+A.8.10,Information deletion,Yes,Example: Applicable because retaining information beyond need increases exposure (RISK-015).,Planned,ISO-EV-069
 A.8.11,Data masking,No,Example: The fictional scope does not assume routine use of production personal data in non-production environments; reassess if such processing occurs.,Not applicable (illustrative),N/A — rationale documented
-A.8.12,Data leakage prevention,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.12,Data leakage prevention,Yes,"Example: Applicable because sensitive data can leave through cloud sharing, endpoints, and email (RISK-012).",Planned,ISO-EV-027
 A.8.13,Information backup,Yes,Example: Applicable because in-scope information requires backup and recoverability.,Planned,ISO-EV-012
 A.8.14,Redundancy of information processing facilities,Yes,Example: Applicable because availability risks include single points of failure.,Planned,ISO-EV-013
 A.8.15,Logging,Yes,Example: Applicable because security events need logging for investigation.,Planned,ISO-EV-003
 A.8.16,Monitoring activities,Yes,Example: Applicable because monitoring supports detection of suspicious activity.,Planned,ISO-EV-010
-A.8.17,Clock synchronization,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.18,Use of privileged utility programs,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.19,Installation of software on operational systems,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.17,Clock synchronization,Yes,Example: Applicable because consistent time sources are needed to correlate logs during investigations (RISK-011).,Planned,ISO-EV-028
+A.8.18,Use of privileged utility programs,Yes,"Example: Applicable because utilities that bypass controls enable misuse (RISK-001, RISK-006).",Planned,ISO-EV-070
+A.8.19,Installation of software on operational systems,Yes,"Example: Applicable because unauthorized software introduces malware and vulnerabilities (RISK-006, RISK-010).",Planned,ISO-EV-071
 A.8.20,Network security,Yes,Example: Applicable because network infrastructure is in scope (RISK-007).,Planned,ISO-EV-021
-A.8.21,Security of network services,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.21,Security of network services,Yes,"Example: Applicable because network services from providers underpin availability and confidentiality (RISK-007, RISK-018).",Planned,ISO-EV-072
 A.8.22,Segregation of networks,Yes,Example: Applicable because segmentation limits service disruption and lateral movement (RISK-007).,Planned,ISO-EV-022
-A.8.23,Web filtering,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.24,Use of cryptography,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
+A.8.23,Web filtering,Yes,Example: Applicable because web-delivered malware and phishing sites target endpoints (RISK-004).,Planned,ISO-EV-073
+A.8.24,Use of cryptography,Yes,"Example: Applicable because encryption protects data at rest and in transit and on lost devices (RISK-016, RISK-018).",Planned,ISO-EV-074
 A.8.25,Secure development life cycle,No,Example: Product engineering and software development are outside the fictional scope; reassess if development activities are added to the scope.,Not applicable (illustrative),N/A — rationale documented
 A.8.26,Application security requirements,No,Example: Product engineering and software development are outside the fictional scope; reassess if development activities are added to the scope.,Not applicable (illustrative),N/A — rationale documented
 A.8.27,Secure system architecture and engineering principles,No,Example: Product engineering and software development are outside the fictional scope; reassess if development activities are added to the scope.,Not applicable (illustrative),N/A — rationale documented
@@ -90,5 +90,5 @@ A.8.29,Security testing in development and acceptance,No,Example: Product engine
 A.8.30,Outsourced development,No,Example: Product engineering and software development are outside the fictional scope; reassess if development activities are added to the scope.,Not applicable (illustrative),N/A — rationale documented
 A.8.31,"Separation of development, test and production environments",No,Example: Product engineering and software development are outside the fictional scope; reassess if development activities are added to the scope.,Not applicable (illustrative),N/A — rationale documented
 A.8.32,Change management,Yes,Example: Applicable because production changes can affect security and service reliability.,Planned,ISO-EV-014
-A.8.33,Test information,Pending assessment,Not assessed in this portfolio sample. Evaluate applicability against the approved ISMS scope and risk treatment before making a decision.,Not assessed,TBD
-A.8.34,Protection of information systems during audit testing,Pending assessment,"Pending assessment: determine protections needed for systems during internal and external audit testing, including production-system safeguards.",Not assessed,TBD
+A.8.33,Test information,Yes,Example: Applicable because change testing in IT operations may use production-derived data (RISK-006).,Planned,ISO-EV-075
+A.8.34,Protection of information systems during audit testing,Yes,Example: Applicable because internal audit and vulnerability testing can affect production systems (RISK-010).,Planned,ISO-EV-076

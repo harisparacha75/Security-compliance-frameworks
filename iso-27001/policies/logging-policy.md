@@ -1,6 +1,6 @@
 # Logging and Monitoring Policy
 
-**Document ID:** ISO-POL-006
+**Document ID:** ISO-POL-006  
 **Version:** 1.0  
 **Status:** Draft — Portfolio Example  
 **Owner:** SOC  

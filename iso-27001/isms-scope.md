@@ -12,7 +12,7 @@ For this fictional portfolio scenario, the Information Security Management Syste
 
 ## 2. Boundaries and Interfaces
 
-The scenario assumes that cloud service providers and other suppliers are external dependencies. Their controls are not treated as implemented by this portfolio. Product engineering and customer-operated environments are outside this illustrative scope unless later added through a documented scope review. Building-level physical security is treated as a supplier-managed dependency; the related Annex A physical controls remain `Pending assessment` until supplier assurance and in-scope equipment handling are reviewed.
+The scenario assumes that cloud service providers and other suppliers are external dependencies. Their controls are not treated as implemented by this portfolio. Product engineering and customer-operated environments are outside this illustrative scope unless later added through a documented scope review. Building-level physical security, utilities, and cabling are treated as a supplier-managed dependency. The related Annex A controls (A.7.1–A.7.6, A.7.11, and A.7.12) are excluded in the Statement of Applicability, and reliance on the provider is addressed through supplier assurance (A.5.19, A.5.22) and RISK-017. Physical controls for in-scope equipment and media (A.7.7–A.7.10, A.7.13, A.7.14) remain applicable.
 
 ## 3. Scope Review
 

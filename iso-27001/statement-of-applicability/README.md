@@ -1,9 +1,15 @@
-# Statement of Applicability (SoA) — Portfolio Sample
+# Statement of Applicability
 
-The `soa-register.csv` lists the 93 ISO/IEC 27001:2022 Annex A control references and names for navigation. This is **not a completed Statement of Applicability**. 22 controls are marked applicable, 8 have illustrative exclusions, and 63 remain `Pending assessment` and must be evaluated against an approved ISMS scope and risk treatment.
+The `soa-register.csv` records an applicability decision for each of the 93 ISO/IEC 27001:2022 Annex A controls. Of these, **76 are applicable** (`Yes`) and **17 are excluded** (`No`) with a documented rationale. No control is left undecided.
 
-The sample includes illustrative exclusions with rationale to demonstrate how an exclusion decision can be documented. These examples are not organizational decisions. Applicable sample controls use `Planned`; this means the control is not represented as implemented. Evidence references point to the ISO evidence register where a sample evidence item exists; `TBD` means none is currently assigned.
+All 76 applicable controls have status `Planned`, a control-register entry, and an evidence-register reference. This does not mean any control is implemented. Decisions follow the fictional [ISMS scope](../isms-scope.md) and the [risk register](../risk-assessment/risk-register.csv), and require approval and validation by a real organization.
 
-Before operational use, an organization must validate all applicability decisions, exclusions, control implementation status, evidence references, and approval records.
+## Exclusions
 
-**Disclaimer:** Educational portfolio material only; not evidence of ISO 27001 compliance or certification.
+| Controls | Reason |
+|---|---|
+| A.7.1–A.7.6, A.7.11, A.7.12 | Building-level physical security, utilities, and cabling are provided by the facility provider and treated as a supplier-managed dependency; reliance is addressed through supplier assurance (A.5.19, A.5.22; RISK-017) |
+| A.8.4, A.8.25–A.8.31 | Product engineering and software development are outside the scope |
+| A.8.11 | No routine use of production personal data in non-production environments is assumed |
+
+Each exclusion states when to reassess. If scope changes, revisit the matching SoA rows, the control register, the evidence register, and the risk register.

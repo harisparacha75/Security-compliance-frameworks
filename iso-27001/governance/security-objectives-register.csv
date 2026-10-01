@@ -1,5 +1,7 @@
 Objective ID,Objective,Metric,Target,Owner,Review Frequency,Status,Review Evidence
-OBJ-001,Improve timely remediation of critical vulnerabilities,Percentage of critical findings remediated within approved target,TBD,IT Security,Monthly,Pending approval,TBD
-OBJ-002,Improve privileged access governance,Percentage of privileged accounts reviewed on schedule,TBD,IT Security,Quarterly,Pending approval,TBD
-OBJ-003,Validate backup recoverability,Percentage of scheduled restoration tests completed successfully,TBD,IT Operations,Quarterly,Pending approval,TBD
-OBJ-004,Improve incident response readiness,Percentage of planned response exercises completed,TBD,SOC,Annual,Pending approval,TBD
+OBJ-001,Improve timely remediation of critical vulnerabilities,Percentage of critical findings remediated within the target time in ISO-PROC-002,At least 95%,IT Security,Monthly,Draft — pending approval,TBD
+OBJ-002,Improve privileged access governance,Percentage of privileged accounts reviewed on schedule (ISO-PROC-001),100% each quarter,IT Security,Quarterly,Draft — pending approval,TBD
+OBJ-003,Validate backup recoverability,Percentage of scheduled restoration tests completed successfully (ISO-POL-007),At least 95%,IT Operations,Quarterly,Draft — pending approval,TBD
+OBJ-004,Improve incident response readiness,Number of planned response exercises completed per year (ISO-PLAN-001),At least 1 per year,SOC,Annual,Draft — pending approval,TBD
+OBJ-005,Improve security awareness,Percentage of personnel completing awareness training on schedule,At least 95% within 30 days of hire or due date,IT Security,Quarterly,Draft — pending approval,TBD
+OBJ-006,Keep supplier assurance current,Percentage of Critical suppliers reviewed on schedule (ISO-STD-002),100% each year,Vendor Management,Annual,Draft — pending approval,TBD

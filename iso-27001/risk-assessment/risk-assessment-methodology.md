@@ -12,7 +12,7 @@ This methodology applies to organizational information assets, systems, networks
 
 The risk assessment process consists of the following steps:
 
-1. Identify information assets.
+1. Identify information assets and record them in `asset-inventory.csv` (each risk references asset IDs, and each asset lists its linked risks).
 2. Identify threats and vulnerabilities.
 3. Evaluate the likelihood of each risk.
 4. Assess the potential business impact.
@@ -79,7 +79,7 @@ Residual score = residual likelihood × residual impact, using the same 1–5 sc
 
 ## 8. Residual Risk and Review
 
-After treatment is implemented, reassess likelihood and impact, calculate the residual score and level, and document acceptance or further treatment. Until reassessment is complete, residual fields remain `TBD` and acceptance remains `Pending`.
+After treatment is implemented, reassess likelihood and impact, calculate the residual score and level, and document acceptance or further treatment. In this portfolio the residual likelihood, impact, score, and level in `risk-register.csv` are illustrative **target** values that assume the planned controls are implemented; they are not measured results. Acceptance remains `Pending` until a real organization reassesses residual risk with implementation evidence and records an approved decision.
 
 ## 9. Review and Approval
 

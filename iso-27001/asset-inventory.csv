@@ -1,8 +1,16 @@
-Asset ID,Asset Name,Asset Type,Owner,Information Classification,Location or Service,Dependencies,Criticality,Status,Review Date
-AST-001,Identity and access management service,Identity service,IT Security,Confidential,Cloud service,Identity provider,High,Illustrative — validate,TBD
-AST-002,Cloud file storage,Cloud data store,IT Security,Confidential,Cloud service,Cloud provider,High,Illustrative — validate,TBD
-AST-003,Production servers,Compute,IT Operations,Internal,Hosting environment,Network and backup services,High,Illustrative — validate,TBD
-AST-004,Employee endpoints,Endpoint fleet,IT Operations,Internal,Remote and office use,Identity and endpoint protection,Medium,Illustrative — validate,TBD
-AST-005,Network infrastructure,Network,IT Operations,Internal,Network environment,Telecom and network service providers,High,Illustrative — validate,TBD
-AST-006,Central logging and SIEM,Security monitoring platform,SOC,Confidential,Cloud or hosted service,Log sources and identity services,High,Illustrative — validate,TBD
-AST-007,Backup and recovery service,Data protection service,IT Operations,Confidential,Cloud or hosted service,Storage provider and network,High,Illustrative — validate,TBD
+Asset ID,Asset Name,Asset Type,Owner,Information Classification,Location or Service,Dependencies,Criticality,Linked Risks,Status,Review Date
+AST-001,Identity and access management service,Identity service,IT Security,Confidential,Cloud service,Identity provider,High,RISK-001; RISK-004; RISK-014,Illustrative — validate,TBD
+AST-002,Cloud file storage,Cloud data store,IT Security,Confidential,Cloud service,Cloud provider,High,RISK-003; RISK-009; RISK-012; RISK-018,Illustrative — validate,TBD
+AST-003,Production servers,Compute,IT Operations,Internal,Hosting environment,Network and backup services,High,RISK-002; RISK-006; RISK-010; RISK-013,Illustrative — validate,TBD
+AST-004,Employee endpoints,Endpoint fleet,IT Operations,Internal,Remote and office use,Identity and endpoint protection,Medium,RISK-002; RISK-004; RISK-008; RISK-010; RISK-012; RISK-016,Illustrative — validate,TBD
+AST-005,Network infrastructure,Network,IT Operations,Internal,Network environment,Telecom and network service providers,High,RISK-007; RISK-010; RISK-017; RISK-018,Illustrative — validate,TBD
+AST-006,Central logging and SIEM,Security monitoring platform,SOC,Confidential,Cloud or hosted service,Log sources and identity services,High,RISK-011; RISK-019,Illustrative — validate,TBD
+AST-007,Backup and recovery service,Data protection service,IT Operations,Confidential,Cloud or hosted service,Storage provider and network,High,RISK-002; RISK-005; RISK-013,Illustrative — validate,TBD
+AST-008,Customer support records,Information asset,IT Security,Confidential,Cloud file storage and support tooling,AST-002; AST-013,High,RISK-003; RISK-008; RISK-012; RISK-014; RISK-015; RISK-018,Illustrative — validate,TBD
+AST-009,Business and financial records,Information asset,Management,Confidential,Cloud file storage,AST-002; AST-007,High,RISK-005; RISK-008; RISK-015,Illustrative — validate,TBD
+AST-010,HR and personnel records,Information asset,HR,Confidential,Cloud file storage,AST-002; AST-001,Medium,RISK-008; RISK-014; RISK-015,Illustrative — validate,TBD
+AST-011,Authentication secrets and cryptographic keys,Information asset,IT Security,Restricted,Identity provider and key store,AST-001,High,RISK-001; RISK-018,Illustrative — validate,TBD
+AST-012,Security logs and event data,Information asset,SOC,Confidential,Central logging platform,AST-006,High,RISK-011; RISK-019,Illustrative — validate,TBD
+AST-013,Email and collaboration service,Cloud service,IT Operations,Internal,Cloud service,Identity provider and cloud provider,Medium,RISK-004; RISK-009; RISK-012,Illustrative — validate,TBD
+AST-014,Supplier-managed facilities and hosting,Supplier dependency,Vendor Management,Internal,Facility and hosting provider,Facility provider and network providers,High,RISK-009; RISK-013; RISK-017,Illustrative — validate,TBD
+AST-015,Backup data sets,Information asset,IT Operations,Confidential,Backup and recovery service,AST-007,High,RISK-002; RISK-005,Illustrative — validate,TBD

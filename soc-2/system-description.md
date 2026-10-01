@@ -3,7 +3,8 @@
 **Document ID:** SOC2-SYS-001  
 **Version:** 0.1  
 **Status:** Draft — Portfolio Example  
-**System Owner:** TBD
+**Owner:** IT Operations  
+**Review Cycle:** Annually and after significant change
 
 ## System and services
 

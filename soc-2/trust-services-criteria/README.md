@@ -6,20 +6,15 @@ This directory documents the Trust Services Criteria (TSC) used to organize this
 
 ## Scope
 
-The sample matrix includes selected criteria from Security (Common Criteria) and Availability. It is not a complete mapping of all applicable criteria. Availability-related examples include capacity monitoring, backup/recovery safeguards, and recovery testing.
+The illustrative matrix covers the **Security** category (Common Criteria CC1.1–CC9.2, 33 criteria) and the **Availability** category (A1.1–A1.3), 36 criteria in total. Confidentiality, Processing Integrity, and Privacy are not in the matrix and would need to be added if a real engagement included them.
 
 - **Security (Common Criteria):** Criteria related to protecting systems and information against unauthorized access and other security threats.
 - **Availability:** Criteria related to maintaining system availability in accordance with defined commitments.
 
 ## Control Mapping
 
-Selected criteria are mapped to illustrative controls in the [SOC 2 Control Matrix](../control-matrix/control-matrix.csv). This is a selected sample, not a complete SOC 2 control set.
+Every criterion is mapped to one illustrative control activity and one planned evidence item in the [SOC 2 Control Matrix](../control-matrix/control-matrix.csv) and the [evidence register](../evidence/evidence-register.csv). Having a row for a criterion does not mean the criterion is met; all rows are `Planned`.
 
 ## Status and Disclaimer
 
 This documentation is illustrative and does not demonstrate compliance, audit readiness, an audit report, attestation, or assurance opinion. Actual scope and applicable criteria must be determined for the relevant system and engagement.
-
-
-## Coverage note
-
-The control matrix is a selected illustrative sample, not a complete mapping of all criteria. Security is the primary category. Confidentiality (C1.1), Processing Integrity (PI1.1), and Privacy (P1.1) appear as optional examples only; their inclusion does not mean the categories are in scope or that criteria are met. Availability controls A1.1–A1.3 are examples. Confirm applicable criteria, system boundaries, and relevant commitments for any real engagement.
